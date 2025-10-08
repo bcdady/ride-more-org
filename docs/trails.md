@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+title: Trail Information | MORE Club
 ---
 
 # Trail Information
@@ -59,7 +60,6 @@ sidebar_position: 3
 - Stunning sunrise/sunset views
 - Unique desert ecosystem
 - Challenging sand and rock terrain
-- Historical sites and petroglyphs
 
 **Best Season**: Fall through early spring  
 **Water**: None available - carry extra
