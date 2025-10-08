@@ -4,66 +4,26 @@
 
 Whether you're interested in joining the club, have questions about upcoming events, or want to share trail information, we'd love to hear from you!
 
-## Club Officers
+## Club Leadership
 
-### President
+### President & Founder
 **Bryan Dady**  
-📧 president@ride-more.org  
-📱 [Contact form preferred]
+📧 info@ride-more.org  
+📱 [Email preferred]
 
-*Handles overall club leadership, strategic planning, and external partnerships*
+*Handles club leadership, ride organization, safety coordination, and all club operations*
 
-### Vice President  
-**[Name TBD]**  
-📧 vp@ride-more.org  
-📱 [Contact form preferred]
+*As the club grows, additional officer positions will be established to support our expanding community.*
 
-*Assists with club operations and leads special projects*
+## Contact Information
 
-### Ride Captain
-**[Name TBD]**  
-📧 rides@ride-more.org  
-📱 [Contact form preferred]  
+### All Inquiries
+📧 **info@ride-more.org**
 
-*Organizes rides, maintains trail information, and coordinates with land managers*
-
-### Safety Officer
-**[Name TBD]**  
-📧 safety@ride-more.org  
-📱 [Contact form preferred]
-
-*Oversees safety training, maintains first aid resources, and reviews incident reports*
-
-### Treasurer
-**[Name TBD]**  
-📧 treasurer@ride-more.org  
-📱 [Contact form preferred]
-
-*Manages club finances, membership dues, and event budgets*
-
-### Secretary
-**[Name TBD]**  
-📧 secretary@ride-more.org  
-📱 [Contact form preferred]
-
-*Handles meeting minutes, membership records, and communications*
-
-## General Information
+*For all questions about membership, events, rides, safety, or general club information*
 
 ### Mailing Address
 *Physical address coming soon*
-
-### General Inquiries
-📧 info@ride-more.org
-
-### Membership Questions  
-📧 membership@ride-more.org
-
-### Event Information
-📧 events@ride-more.org
-
-### Website & Technical Issues
-📧 webmaster@ride-more.org
 
 ## Meeting Information
 

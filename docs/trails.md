@@ -274,7 +274,7 @@ Have you discovered a great trail you'd like to share with the club? We'd love t
 - Any permits or restrictions
 - GPS coordinates if available
 
-**Contact**: <rides@ride-more.org>
+**Contact**: info@ride-more.org
 
 ### Trail Maintenance
 

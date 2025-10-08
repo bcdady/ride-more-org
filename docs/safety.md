@@ -219,4 +219,4 @@ The most important safety rule is knowing when not to proceed:
 
 ---
 
-*Questions about safety guidelines or procedures? Contact our Safety Officer at <safety@ride-more.org>*
+*Questions about safety guidelines or procedures? Contact us at info@ride-more.org*
