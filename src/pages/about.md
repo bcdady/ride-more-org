@@ -2,7 +2,7 @@
 
 ## Our Mission
 
-The Motorcycle Off-Road Explorers (MORE) club is dedicated to bringing together passionate riders who share a love for off-road motorcycle adventures. We explore the beautiful trails and backcountry routes while building a strong, supportive community of riders.
+The Motorcycle Off-Road Explorers (MORE) club is dedicated to bringing together new and experienced riders who share a love for motorcycle adventures. We explore the beautiful trails and backcountry routes while building a strong, supportive community of riders.
 
 ## What We Do
 
