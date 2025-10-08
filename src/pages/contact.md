@@ -8,7 +8,7 @@ Whether you're interested in joining the club, have questions about upcoming eve
 
 ### President & Founder
 **Bryan Dady**  
-📧 info@ride-more.org  
+📧 more@ride-more.org  
 📱 [Email preferred]
 
 *Handles club leadership, ride organization, safety coordination, and all club operations*
@@ -18,7 +18,7 @@ Whether you're interested in joining the club, have questions about upcoming eve
 ## Contact Information
 
 ### All Inquiries
-📧 **info@ride-more.org**
+📧 **more@ride-more.org**
 
 *For all questions about membership, events, rides, safety, or general club information*
 
@@ -50,7 +50,7 @@ All members and prospective members welcome!
 Stay connected with the MORE club community:
 
 - **Website**: [ride-more.org](https://ride-more.org)
-- **Newsletter**: Sign up through membership or email info@ride-more.org
+- **Newsletter**: Sign up through membership or email more@ride-more.org
 - *Additional social media channels coming soon*
 
 ## Emergency Contact
@@ -88,7 +88,7 @@ We maintain positive relationships with local land managers. If you encounter tr
 
 Stay up-to-date with the latest club news, ride schedules, and important announcements by joining our newsletter!
 
-*Newsletter signup coming soon - email info@ride-more.org to be added manually*
+*Newsletter signup coming soon - email more@ride-more.org to be added manually*
 
 ## Questions & Feedback
 

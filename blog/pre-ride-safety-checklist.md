@@ -117,7 +117,7 @@ The goal is to return home safely with great memories and stories to share. When
 
 ---
 
-*Have questions about safety gear or maintenance? Contact us at info@ride-more.org*
+*Have questions about safety gear or maintenance? Contact us at more@ride-more.org*
 
 **Next Workshop**: Basic Off-Road Techniques - Date TBD  
 **Trail Tip**: Always let someone know your planned route and expected return time!

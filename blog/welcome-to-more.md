@@ -42,7 +42,7 @@ While we're just launching, I'm already working on organizing our first official
 
 Whether you're a seasoned off-road veteran or just getting started, there's a place for you in MORE club. We welcome riders of all skill levels who share our passion for adventure and respect for the riding community.
 
-**Interested in joining our inaugural ride?** Contact us at info@ride-more.org or check out our [membership page](/members) for more information.
+**Interested in joining our inaugural ride?** Contact us at more@ride-more.org or check out our [membership page](/members) for more information.
 
 ## What's Next?
 
