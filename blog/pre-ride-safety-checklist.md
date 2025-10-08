@@ -1,6 +1,7 @@
 ---
 slug: pre-ride-safety-checklist
 title: Pre-Ride Safety Checklist - Don't Hit the Trail Without It!
+date: 2025-10-08
 authors: [ride-captain]
 tags: [safety, maintenance]
 ---
