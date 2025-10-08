@@ -1,0 +1,144 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="groundGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#8FBC8F;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#556B2F;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="skyGradient2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#87CEEB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E0F6FF;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Sky background -->
+  <rect width="200" height="120" fill="url(#skyGradient2)"/>
+  
+  <!-- Ground -->
+  <rect y="120" width="200" height="80" fill="url(#groundGradient)"/>
+  
+  <!-- Trees in background -->
+  <ellipse cx="20" cy="90" rx="12" ry="20" fill="#228B22" opacity="0.7"/>
+  <rect x="17" y="90" width="6" height="15" fill="#8B4513" opacity="0.7"/>
+  <ellipse cx="180" cy="85" rx="15" ry="25" fill="#228B22" opacity="0.7"/>
+  <rect x="176" y="85" width="8" height="20" fill="#8B4513" opacity="0.7"/>
+  
+  <!-- Motorcycle 1 (left rider) -->
+  <g transform="translate(45,150) scale(0.7)">
+    <!-- Bike body -->
+    <ellipse cx="0" cy="0" rx="15" ry="6" fill="#FF6B35"/>
+    <!-- Wheels -->
+    <circle cx="12" cy="6" r="6" fill="#333" stroke="#666" stroke-width="1"/>
+    <circle cx="-12" cy="6" r="6" fill="#333" stroke="#666" stroke-width="1"/>
+    <!-- Details -->
+    <rect x="-18" y="2" width="6" height="2" fill="#666" rx="1"/>
+    <ellipse cx="-6" cy="-1" rx="4" ry="2" fill="#000"/>
+  </g>
+  
+  <!-- Rider 1 -->
+  <g transform="translate(45,135) scale(0.55)">
+    <!-- Helmet -->
+    <circle cx="0" cy="0" r="7" fill="#4169E1"/>
+    <!-- Body -->
+    <ellipse cx="0" cy="12" rx="5" ry="10" fill="#8B4513"/>
+    <!-- Arms -->
+    <ellipse cx="-6" cy="8" rx="2" ry="6" fill="#8B4513" transform="rotate(-15)"/>
+    <ellipse cx="6" cy="8" rx="2" ry="6" fill="#8B4513" transform="rotate(15)"/>
+    <!-- Legs -->
+    <ellipse cx="-2" cy="20" rx="2" ry="8" fill="#000"/>
+    <ellipse cx="2" cy="20" rx="2" ry="8" fill="#000"/>
+  </g>
+  
+  <!-- Motorcycle 2 (center rider) -->
+  <g transform="translate(100,155) scale(0.75)">
+    <!-- Bike body -->
+    <ellipse cx="0" cy="0" rx="16" ry="7" fill="#FF4500"/>
+    <!-- Wheels -->
+    <circle cx="13" cy="7" r="6" fill="#333" stroke="#666" stroke-width="1"/>
+    <circle cx="-13" cy="7" r="6" fill="#333" stroke="#666" stroke-width="1"/>
+    <!-- Details -->
+    <rect x="-19" y="3" width="7" height="2" fill="#666" rx="1"/>
+    <ellipse cx="-7" cy="-1" rx="5" ry="2" fill="#000"/>
+    <line x1="10" y1="-2" x2="17" y2="-6" stroke="#333" stroke-width="2"/>
+  </g>
+  
+  <!-- Rider 2 (center) -->
+  <g transform="translate(100,138) scale(0.6)">
+    <!-- Helmet -->
+    <circle cx="0" cy="0" r="7" fill="#228B22"/>
+    <!-- Body -->
+    <ellipse cx="0" cy="13" rx="5" ry="11" fill="#FF6B35"/>
+    <!-- Arms -->
+    <ellipse cx="-7" cy="9" rx="3" ry="7" fill="#FF6B35" transform="rotate(-20)"/>
+    <ellipse cx="7" cy="9" rx="3" ry="7" fill="#FF6B35" transform="rotate(20)"/>
+    <!-- Legs -->
+    <ellipse cx="-3" cy="22" rx="3" ry="9" fill="#000"/>
+    <ellipse cx="3" cy="22" rx="3" ry="9" fill="#000"/>
+  </g>
+  
+  <!-- Motorcycle 3 (right rider) -->
+  <g transform="translate(155,150) scale(0.7)">
+    <!-- Bike body -->
+    <ellipse cx="0" cy="0" rx="15" ry="6" fill="#8B4513"/>
+    <!-- Wheels -->
+    <circle cx="12" cy="6" r="6" fill="#333" stroke="#666" stroke-width="1"/>
+    <circle cx="-12" cy="6" r="6" fill="#333" stroke="#666" stroke-width="1"/>
+    <!-- Details -->
+    <rect x="-18" y="2" width="6" height="2" fill="#666" rx="1"/>
+    <ellipse cx="-6" cy="-1" rx="4" ry="2" fill="#000"/>
+  </g>
+  
+  <!-- Rider 3 -->
+  <g transform="translate(155,135) scale(0.55)">
+    <!-- Helmet -->
+    <circle cx="0" cy="0" r="7" fill="#FFD700"/>
+    <!-- Body -->
+    <ellipse cx="0" cy="12" rx="5" ry="10" fill="#4169E1"/>
+    <!-- Arms -->
+    <ellipse cx="-6" cy="8" rx="2" ry="6" fill="#4169E1" transform="rotate(-15)"/>
+    <ellipse cx="6" cy="8" rx="2" ry="6" fill="#4169E1" transform="rotate(15)"/>
+    <!-- Legs -->
+    <ellipse cx="-2" cy="20" rx="2" ry="8" fill="#000"/>
+    <ellipse cx="2" cy="20" rx="2" ry="8" fill="#000"/>
+  </g>
+  
+  <!-- Community connection lines (subtle) -->
+  <path d="M45,140 Q70,130 100,140" stroke="#FF6B35" stroke-width="2" fill="none" opacity="0.3" stroke-dasharray="3,2"/>
+  <path d="M100,140 Q125,130 155,140" stroke="#FF6B35" stroke-width="2" fill="none" opacity="0.3" stroke-dasharray="3,2"/>
+  
+  <!-- Speech/communication bubbles -->
+  <ellipse cx="35" cy="115" rx="8" ry="5" fill="#FFF" stroke="#DDD" stroke-width="1"/>
+  <polygon points="37,118 42,125 45,118" fill="#FFF" stroke="#DDD" stroke-width="1"/>
+  
+  <ellipse cx="90" cy="110" rx="10" ry="6" fill="#FFF" stroke="#DDD" stroke-width="1"/>
+  <polygon points="95,115 100,123 105,115" fill="#FFF" stroke="#DDD" stroke-width="1"/>
+  
+  <ellipse cx="165" cy="115" rx="8" ry="5" fill="#FFF" stroke="#DDD" stroke-width="1"/>
+  <polygon points="162,118 167,125 170,118" fill="#FFF" stroke="#DDD" stroke-width="1"/>
+  
+  <!-- Small icons in speech bubbles -->
+  <!-- Thumbs up -->
+  <path d="M33,113 L33,117 L37,117 L37,115 L35,113 Z" fill="#FF6B35"/>
+  <!-- Heart -->
+  <path d="M87,108 Q85,106 87,110 Q89,106 91,108 Q91,112 87,114 Q83,112 83,108" fill="#FF4500"/>
+  <!-- Exclamation (excitement) -->
+  <circle cx="165" cy="113" r="1" fill="#FF6B35"/>
+  <line x1="165" y1="115" x2="165" y2="117" stroke="#FF6B35" stroke-width="2"/>
+  
+  <!-- Ground details -->
+  <ellipse cx="70" cy="175" rx="25" ry="3" fill="#556B2F" opacity="0.5"/>
+  <ellipse cx="130" cy="180" rx="30" ry="4" fill="#556B2F" opacity="0.5"/>
+  
+  <!-- Some grass tufts -->
+  <path d="M25,170 Q27,165 29,170 Q27,175 25,170" fill="#228B22"/>
+  <path d="M175,175 Q177,170 179,175 Q177,180 175,175" fill="#228B22"/>
+  <path d="M60,180 Q62,175 64,180 Q62,185 60,180" fill="#228B22"/>
+  <path d="M140,175 Q142,170 144,175 Q142,180 140,175" fill="#228B22"/>
+  
+  <!-- Sun rays (community warmth) -->
+  <g transform="translate(170,30)" opacity="0.6">
+    <line x1="0" y1="-15" x2="0" y2="-20" stroke="#FFD700" stroke-width="2"/>
+    <line x1="12" y1="-8" x2="16" y2="-12" stroke="#FFD700" stroke-width="2"/>
+    <line x1="12" y1="8" x2="16" y2="12" stroke="#FFD700" stroke-width="2"/>
+    <line x1="0" y1="15" x2="0" y2="20" stroke="#FFD700" stroke-width="2"/>
+  </g>
+</svg>

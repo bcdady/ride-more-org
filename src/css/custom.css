@@ -1,0 +1,146 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  /* Adventure orange theme - reminiscent of KTM and adventure gear */
+  --ifm-color-primary: #ff6b35;
+  --ifm-color-primary-dark: #ff5722;
+  --ifm-color-primary-darker: #ff4f1f;
+  --ifm-color-primary-darkest: #e6461c;
+  --ifm-color-primary-light: #ff7f48;
+  --ifm-color-primary-lighter: #ff8754;
+  --ifm-color-primary-lightest: #ff9d71;
+  
+  /* Secondary colors - earthy tones for outdoor feel */
+  --ifm-color-secondary: #4a5d23;
+  --ifm-color-success: #2d8653;
+  --ifm-color-warning: #ffb02e;
+  --ifm-color-danger: #d63031;
+  
+  /* Typography */
+  --ifm-code-font-size: 95%;
+  --ifm-font-family-base: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif;
+  
+  /* Shadows and effects */
+  --docusaurus-highlighted-code-line-bg: rgba(255, 107, 53, 0.1);
+  --ifm-navbar-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  /* Darker adventure theme for night riding feel */
+  --ifm-color-primary: #ff8754;
+  --ifm-color-primary-dark: #ff7341;
+  --ifm-color-primary-darker: #ff6b35;
+  --ifm-color-primary-darkest: #e6461c;
+  --ifm-color-primary-light: #ff9b67;
+  --ifm-color-primary-lighter: #ffa373;
+  --ifm-color-primary-lightest: #ffb792;
+  --docusaurus-highlighted-code-line-bg: rgba(255, 135, 84, 0.2);
+}
+
+/* Custom styling for adventure/motorcycle theme */
+.hero {
+  background: linear-gradient(135deg, var(--ifm-color-primary-darkest) 0%, var(--ifm-color-primary) 100%);
+  position: relative;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="grain" x="0" y="0" width="100" height="100" patternUnits="userSpaceOnUse"><circle cx="50" cy="50" r="0.5" fill="%23ffffff" opacity="0.1"/></pattern></defs><rect width="100" height="100" fill="url(%23grain)"/></svg>');
+  pointer-events: none;
+}
+
+.hero__title {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  position: relative;
+  z-index: 1;
+}
+
+.hero__subtitle {
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+  position: relative;
+  z-index: 1;
+}
+
+/* Button styling */
+.button {
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  position: relative;
+  z-index: 1;
+}
+
+.button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Navbar enhancements */
+.navbar {
+  box-shadow: var(--ifm-navbar-shadow);
+}
+
+.navbar__brand {
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+/* Card styling for features */
+.col {
+  padding: 1rem;
+}
+
+.text--center h3 {
+  color: var(--ifm-color-primary-darkest);
+  margin-bottom: 1rem;
+}
+
+[data-theme='dark'] .text--center h3 {
+  color: var(--ifm-color-primary-light);
+}
+
+/* Blog post styling */
+.theme-blog-post-paginator {
+  margin-top: 3rem;
+}
+
+/* Footer styling */
+.footer {
+  background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+}
+
+.footer__title {
+  color: var(--ifm-color-primary-light);
+  font-weight: 600;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .hero__title {
+    font-size: 2rem;
+  }
+  
+  .buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .button {
+    margin: 0.5rem 0;
+    width: 100%;
+    max-width: 280px;
+  }
+}

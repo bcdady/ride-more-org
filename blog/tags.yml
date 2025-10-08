@@ -1,0 +1,29 @@
+rides:
+  label: Ride Reports
+  permalink: /rides
+  description: Stories and reports from club rides and adventures
+
+events:
+  label: Club Events
+  permalink: /events
+  description: Announcements about club events and activities
+
+safety:
+  label: Safety
+  permalink: /safety
+  description: Safety tips, training, and best practices
+
+trails:
+  label: Trail Updates
+  permalink: /trails
+  description: Trail conditions, closures, and new discoveries
+
+maintenance:
+  label: Bike Maintenance
+  permalink: /maintenance
+  description: Tips and guides for motorcycle maintenance
+
+news:
+  label: Club News
+  permalink: /news
+  description: General club announcements and updates
