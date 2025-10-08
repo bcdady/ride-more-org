@@ -22,7 +22,7 @@ New to off-road riding or our club? Start here:
 
 1. **Read the [Safety Guidelines](./safety)** - Understanding safe riding practices
 2. **Check out [Trail Maps](./trails)** - Familiarize yourself with local riding areas  
-3. **Review [Emergency Procedures](./emergency)** - Know what to do in case of emergencies
+3. **Review Emergency Procedures** in the Safety Guidelines - Know what to do in case of emergencies
 4. **Join a [Beginner Ride](/events)** - Experience the trails with experienced guides
 
 ## Before Your First Ride
