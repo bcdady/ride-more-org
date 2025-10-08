@@ -1,3 +1,7 @@
+---
+title: Contact Us | MORE Club
+---
+
 # Contact Us
 
 ## Get in Touch

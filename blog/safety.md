@@ -1,6 +1,6 @@
 ---
 slug: pre-ride-safety-checklist
-title: Pre-Ride Safety Checklist - Don't Hit the Trail Without It!
+title: Pre-Ride Safety Checklist - Don't Hit the Trail Without It
 date: 2025-10-08
 authors: [ride-captain]
 tags: [safety, maintenance]
@@ -15,6 +15,7 @@ Before you fire up your bike and head out on an adventure, take a few minutes to
 ## The Motorcycle Safety Check (T-CLOCS)
 
 ### T - Tires and Wheels
+
 - **Tire Pressure**: Check both front and rear tire pressure when cold
 - **Tread Depth**: Look for adequate tread and no excessive wear patterns  
 - **Sidewall Damage**: Inspect for cuts, cracks, or embedded objects
@@ -23,30 +24,35 @@ Before you fire up your bike and head out on an adventure, take a few minutes to
 **Pro Tip**: Lower tire pressure slightly for better traction in sand and soft terrain, but don't go below manufacturer minimums.
 
 ### C - Controls  
+
 - **Throttle**: Should snap back quickly and smoothly
 - **Clutch**: Check lever action and engagement point
 - **Brakes**: Test both front and rear brake feel and effectiveness
 - **Steering**: Ensure handlebars turn smoothly without binding
 
 ### L - Lights and Electrics
+
 - **Headlight**: High and low beam function
 - **Taillight**: Brake light activation
 - **Turn Signals**: All four signals working (if equipped)
 - **Battery**: Check terminals for corrosion and secure connections
 
 ### O - Oil and Fluids
+
 - **Engine Oil**: Check level and condition
 - **Coolant**: Verify level and look for leaks
 - **Brake Fluid**: Check reservoir levels and fluid color
 - **Chain Lube**: Ensure chain is properly lubricated
 
 ### C - Chain and Drive
+
 - **Chain Tension**: Check proper slack (usually 1.5-2 inches)
 - **Chain Wear**: Look for stretched or damaged links  
 - **Sprocket Condition**: Check for hooked or worn teeth
 - **Chain Alignment**: Ensure proper sprocket alignment
 
 ### S - Stands and Suspension
+
 - **Side Stand**: Spring return function and secure mounting
 - **Center Stand**: Operation and condition (if equipped)
 - **Suspension**: Check for leaks, proper sag, and smooth operation
@@ -54,32 +60,42 @@ Before you fire up your bike and head out on an adventure, take a few minutes to
 ## Personal Safety Gear Check
 
 ### Essential Protection
+
+- [ ] **Sturdy Boots**: Ankle protection, sole protection, good tread
+- [ ] **Gloves**: Full-finger protection with good grip
 - [ ] **Helmet**: DOT/Snell certified, proper fit, clear visor
 - [ ] **Eye Protection**: Goggles or face shield, clean and unscratched
-- [ ] **Protective Clothing**: Long pants, long sleeves, closed-toe boots
-- [ ] **Gloves**: Full-finger protection with good grip
+- [ ] **Protective Clothing**: Long pants, long sleeves, even in warm weather
 
 ### Recommended Upgrades
-- [ ] **Body Armor**: Chest protector, back protection, knee/elbow guards
-- [ ] **Sturdy Boots**: Ankle protection, sole protection, good tread
-- [ ] **High-Visibility Gear**: Bright colors or reflective elements
+
+- [ ] **Waterproof Boots**: Waterproof motocross style boots will provide greater foot and ankle protection, between the hard metal parts of your bike and trail hazards like rocks, roots, and stumps.
+- [ ] **Waterproof Textile Jacket**: A good quality, waterproof textile jacket with armor will keep you dry and protected from scrapes and impacts.
+- [ ] **Waterproof Textile Pants**: Waterproof textile pants with armor will protect your legs from the elements and trail hazards.
+- [ ] **Waterproof Gloves**: Waterproof gloves will keep your hands dry and warm, improving and control.
+- [ ] **Modular ADV Helmet**: Modular helmets provide the protection of a chin-bar with the convenience of moving it out of the way for a chat or a quick drink, without having to take the helmet all the way off. ADV style helmets feature wider eye ports for peripheral visibility, better ventilation for off-road riding, and "peak" visors to block sun and trail debris.
 
 ## Essential Supplies
 
 ### Tool Kit
-- [ ] Multi-tool with common sizes
+
+- [ ] Axle wrenches and tire irons
 - [ ] Tire repair kit and pump/CO2 cartridges
+- [ ] An extra tire tube
 - [ ] Extra spark plug and plug wrench
 - [ ] Zip ties and duct tape
 - [ ] First aid kit
 
 ### Communication & Navigation
-- [ ] Fully charged phone with offline maps
+
+- [ ] Fully charged phone with offline maps. Check your route and estimated mileage.
 - [ ] GPS device or smartphone mount
 - [ ] Contact information for your group
 
 ### Supplies
-- [ ] Extra water (more than you think you need!)
+
+- [ ] Calculate that you've got enough fuel to get to the next gas station, before you have to switch the tank to reserve.
+- [ ] Extra water (more than you think you need)
 - [ ] High-energy snacks
 - [ ] Sunscreen and insect repellent
 
@@ -95,13 +111,14 @@ Before heading out, always check:
 ## Group Ride Considerations
 
 When riding with others:
+
 - Establish hand signals and communication methods
 - Review the route and identify regrouping points
 - Assign a sweep rider to stay with slower riders
 - Share contact information with the group
 - Discuss skill levels and comfort zones
 
-## Red Flags - Don't Ride If:
+## Red Flags - Don't Ride If
 
 - You feel unwell or overly fatigued  
 - Weather conditions are dangerous
@@ -115,7 +132,7 @@ The goal is to return home safely with great memories and stories to share. When
 
 ---
 
-*Have questions about safety gear or maintenance? Contact us at more@ride-more.org*
+*Have questions about safety gear or maintenance? Contact us at <more@ride-more.org>*
 
 **Next Workshop**: Basic Off-Road Techniques - Date TBD  
 **Trail Tip**: Always let someone know your planned route and expected return time!
