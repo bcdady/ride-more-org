@@ -2,21 +2,21 @@
 
 ## Our Mission
 
-The Motorcycle Off-Road Explorers (MORE) club is dedicated to bringing together new and experienced riders who share a love for motorcycle adventures. We explore the beautiful trails and backcountry routes while building a strong, supportive community of riders.
+The Motorcycle Off-Road Explorers (MORE) club brings together riders who share a passion for motorcycle adventures. We explore beautiful trails and backcountry routes while building a strong, supportive community of new and experienced riders.
 
 ## What We Do
 
-- **Group Rides**: Organize regular group rides to explore new trails and favorite destinations
-- **Skill Building**: Host workshops and training sessions to improve riding techniques and safety
-- **Trail Maintenance**: Give back to the riding community by participating in trail maintenance projects
-- **Social Events**: Enjoy camaraderie through club meetings, BBQs, and social gatherings
-- **Adventure Planning**: Plan multi-day expeditions and epic adventure rides
+- **Group Rides**: We organize regular group rides to explore new trails and revisit favorite destinations
+- **Skill Building**: We host workshops and training sessions to improve riding techniques and safety
+- **Trail Maintenance**: We give back to the riding community by participating in trail maintenance projects
+- **Social Events**: We build camaraderie through club meetings, BBQs, and social gatherings
+- **Adventure Planning**: We plan multi-day expeditions and epic adventure rides
 
 ## Our Values
 
 ### Adventure
 
-We believe that adventure awaits around every corner, and we're committed to discovering new trails and pushing our boundaries safely.
+Adventure awaits around every corner, and we're committed to discovering new trails while pushing our boundaries safely.
 
 ### Community
 
@@ -32,7 +32,7 @@ Safety is paramount in everything we do. We promote proper gear, riding techniqu
 
 ## Join Us
 
-Whether you're a seasoned off-road veteran or just getting started, MORE club welcomes you! We have riders with all types of bikes and experience levels. What matters most is your enthusiasm for adventure and respect for the community.
+Whether you're a seasoned off-road veteran or just getting started, the MORE club welcomes you! Our members ride all types of bikes and bring varying experience levels. What matters most is your enthusiasm for adventure and respect for our community.
 
 ### Membership Benefits
 

@@ -16,8 +16,8 @@ Whether you're interested in joining the club, have questions about upcoming eve
 
 ### Monthly Club Meetings
 
-**When**: TBD
-**Location**: TBD -- I'm interested in feedback on preferred locations, including virtual options
+**When**: TBD  
+**Location**: TBD -- We're interested in feedback on preferred locations, including virtual options
 
 **What we cover:**
 
@@ -33,7 +33,7 @@ All members and prospective members welcome!
 
 Stay connected with the MORE club community:
 
-- **Website**: [ride-more.org](https://ride-more.org)
+- **Website**: [ride-more.org](https://ride-more.org)  
 - **Discord**: *Details on this and additional social media channels coming soon*
 
 ## Directions to Common Meeting Spots
@@ -44,7 +44,7 @@ Stay connected with the MORE club community:
 
 ## Questions & Feedback
 
-We value your input! Contact us about:
+We value your input! [Contact us](mailto:more@ride-more.org?subject=MORE%20Club%20Feedback) about:
 
 - Membership and community questions
 - Ride suggestions and trail reports

@@ -2,21 +2,18 @@
 
 ## Join the Adventure
 
-The Motorcycle Off-Road Explorers club welcomes riders of all skill levels who appreciate the axiom that we can go farther together. Whether you're just starting out or you're a seasoned veteran, there's a place for you in our community.
+The Motorcycle Off-Road Explorers club welcomes riders of all skill levels who appreciate that we can go farther together. Whether you're just starting out or you're a seasoned veteran, there's a place for you in our community.
 
 ## Community Membership Benefits
 
 ### 🏍️ **Group Rides & Events**
 
 - Access to organized rides and guided introductions to new trails
-
-
-- (Brainstorming other possibilities for the community to faciliate
-- - Annual adventure rally participation
+- Annual adventure rally participation
 - Skills workshops and training sessions
 - Special events and social gatherings
 - Trail maintenance days and volunteer opportunities
-- real-world gear recommendations and conversations
+- Real-world gear recommendations and conversations
 - Ride buddy matching service
 
 
@@ -34,7 +31,7 @@ The Motorcycle Off-Road Explorers club welcomes riders of all skill levels who a
 
 *Coming Soon - Member spotlight featuring riding stories, favorite trails, and what they love about the club*
 
-Want to be featured? [Contact us](/contact) to share your story!
+Want to be featured? [Contact us](mailto:more@ride-more.org?subject=Member%20Spotlight) to share your story!
 
 ## Code of Conduct
 
@@ -69,4 +66,4 @@ As a member of MORE club, you agree to:
 
 Ready to join our adventure-seeking community? Have questions about membership benefits or requirements?
 
-[Contact us](/contact) and we'll be happy to help you get started on your journey with the Motorcycle Off-Road Explorers!
+[Contact us](mailto:more@ride-more.org?subject=Membership%20Question) and we'll be happy to help you get started on your journey with the Motorcycle Off-Road Explorers!

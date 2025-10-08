@@ -8,7 +8,7 @@
 *Difficulty: Beginner to Intermediate*  
 *Distance: 45 miles*
 
-Join us for an unforgettable mountain adventure through scenic alpine trails. This ride features breathtaking views, challenging climbs, and thrilling descents through pristine wilderness.
+Join us for an unforgettable mountain adventure through scenic alpine trails. This ride features breathtaking views, challenging climbs, and thrilling descents through pristine wilderness areas.
 
 **Highlights:**
 
@@ -23,14 +23,14 @@ Join us for an unforgettable mountain adventure through scenic alpine trails. Th
 *Difficulty: Beginner to Advanced*  
 *Distance: Various routes 15-60 miles*
 
-Discover the beauty of desert riding with our explorer series. Multiple route options ensure riders of all skill levels can participate and enjoy the unique challenges of desert terrain.
+Discover the beauty of varied terrain with our explorer series. Multiple route options ensure riders of all skill levels can participate and enjoy the unique challenges this area offers.
 
 **What to Expect:**
 
-- Sand and rock terrain
-- Cactus gardens and desert flora
+- Varied terrain including sand, rock, and forest
+- Diverse flora and wildlife viewing
 - Historic mining sites
-- Sunset dinner stops
+- Scenic rest stops
 
 ## Ride Classifications
 
@@ -60,7 +60,7 @@ Discover the beauty of desert riding with our explorer series. Multiple route op
 
 ## Popular Trail Systems
 
-Note: these are examples as we build the site. These will be replaced with actual local trails soon.
+*Note: These are examples as we build the site. These will be replaced with actual local trails soon.*
 
 ### Local Favorites
 
@@ -114,7 +114,7 @@ Check our [news blog](/blog) for detailed ride reports with photos, stories, and
 
 ### Suggest a Ride
 
-Have a great trail you'd like to share with the club? [Contact us](/contact) with your ride suggestions, including:
+Have a great trail you'd like to share with the club? [Contact us](mailto:more@ride-more.org?subject=Ride%20Suggestion) with your ride suggestions, including:
 
 - Trail location and access information
 - Difficulty level and distance
