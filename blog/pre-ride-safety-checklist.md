@@ -64,9 +64,9 @@ Before you fire up your bike and head out on an adventure, take a few minutes to
 - [ ] **Sturdy Boots**: Ankle protection, sole protection, good tread
 - [ ] **High-Visibility Gear**: Bright colors or reflective elements
 
-## Emergency Preparedness
+## Essential Supplies
 
-### Tool Kit Essentials
+### Tool Kit
 - [ ] Multi-tool with common sizes
 - [ ] Tire repair kit and pump/CO2 cartridges
 - [ ] Extra spark plug and plug wrench
@@ -75,14 +75,12 @@ Before you fire up your bike and head out on an adventure, take a few minutes to
 
 ### Communication & Navigation
 - [ ] Fully charged phone with offline maps
-- [ ] Emergency contact information
 - [ ] GPS device or smartphone mount
-- [ ] Whistle for emergency signaling
+- [ ] Contact information for your group
 
 ### Supplies
 - [ ] Extra water (more than you think you need!)
 - [ ] High-energy snacks
-- [ ] Emergency shelter/space blanket
 - [ ] Sunscreen and insect repellent
 
 ## Weather and Trail Conditions
@@ -100,7 +98,7 @@ When riding with others:
 - Establish hand signals and communication methods
 - Review the route and identify regrouping points
 - Assign a sweep rider to stay with slower riders
-- Share emergency contact information
+- Share contact information with the group
 - Discuss skill levels and comfort zones
 
 ## Red Flags - Don't Ride If:

@@ -1,9 +1,11 @@
 # Upcoming Events
+
 *Missoula, Montana Chapter*
 
 ## Weekly Club Rides (Seasonal)
 
 ### Saturday Trail Exploration
+
 **When**: Every 2nd Saturday (April - October)  
 **Time**: 9:00 AM - 4:00 PM  
 **Meeting Point**: Missoula area (location varies by ride)  
@@ -11,6 +13,7 @@
 **Description**: Join us for a day of trail exploration in the beautiful mountains surrounding Missoula! We'll discover new routes and enjoy the camaraderie of fellow riders. Routes vary from beginner-friendly forest roads to challenging single-track in the Bitterroot and Cabinet Mountains.
 
 ### Sunday Skills Workshop  
+
 **When**: Every 3rd Sunday (May - September)  
 **Time**: 10:00 AM - 2:00 PM  
 **Location**: Practice areas near Missoula  
@@ -20,18 +23,21 @@
 ## Special Events
 
 ### Annual Montana Adventure Rally
+
 **Date**: TBA - June 2025  
 **Duration**: 3 Days / 2 Nights  
 **Location**: Montana backcountry (camping required)  
 **Description**: Our biggest event of the year! Multi-day camping and riding adventure exploring Montana's pristine wilderness areas. Includes guided trail rides, group meals around the campfire, and evening entertainment under Big Sky country stars.
 
 ### Trail Maintenance Day
+
 **Date**: TBA - September 2025  
 **Time**: 8:00 AM - 3:00 PM  
 **Location**: Local trail systems around Missoula  
 **Description**: Give back to the trails we love! Join us for trail maintenance work in coordination with the Forest Service, including clearing, bridge repair, and signage updates. Tools provided, just bring work gloves and enthusiasm for preserving Montana's riding opportunities.
 
 ### New Rider Orientation
+
 **Date**: TBA - Spring 2025  
 **Time**: 6:00 PM - 8:00 PM  
 **Location**: Missoula area meetup location  
@@ -40,6 +46,7 @@
 ## Regular Meetups
 
 ### Monthly Club Meeting
+
 **When**: First Wednesday of each month (year-round)  
 **Time**: 7:00 PM - 9:00 PM  
 **Location**: Missoula area venue (details in newsletter)  

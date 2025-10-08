@@ -33,7 +33,7 @@ Essential preparation checklist:
 - Ensure your motorcycle is properly maintained
 - Have appropriate safety gear (helmet, boots, gloves, protective clothing)
 - Inform someone of your riding plans
-- Carry emergency supplies and communication devices
+- Carry essential supplies and communication devices
 
 ## Questions?
 

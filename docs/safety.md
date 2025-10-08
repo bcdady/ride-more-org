@@ -63,7 +63,7 @@ Off-road motorcycle riding involves inherent risks. Following these safety guide
 
 - [ ] Proper safety gear worn correctly
 - [ ] Hydration and nutrition planned
-- [ ] Emergency supplies packed
+- [ ] Essential supplies packed
 - [ ] Communication devices charged
 - [ ] Route and weather reviewed
 
@@ -178,7 +178,7 @@ Keep these numbers easily accessible:
 - Inform riding partners of any medical conditions
 - Carry necessary medications
 - Consider medical ID bracelet or card
-- Know your insurance coverage for emergency transport
+- Know your insurance coverage
 
 ### Common Injuries Prevention
 

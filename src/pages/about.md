@@ -15,15 +15,19 @@ The Motorcycle Off-Road Explorers (MORE) club is dedicated to bringing together 
 ## Our Values
 
 ### Adventure
+
 We believe that adventure awaits around every corner, and we're committed to discovering new trails and pushing our boundaries safely.
 
 ### Community
+
 Our club is built on mutual respect, support, and shared passion for off-road exploration. We welcome riders of all skill levels.
 
 ### Conservation
+
 We ride responsibly and respect the environment, following Leave No Trace principles and supporting sustainable trail access.
 
 ### Safety
+
 Safety is paramount in everything we do. We promote proper gear, riding techniques, and emergency preparedness.
 
 ## Join Us

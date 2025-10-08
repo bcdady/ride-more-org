@@ -2,20 +2,23 @@
 
 ## Featured Rides
 
-### Epic Mountain Trail Adventure
+### Schwartz Creek Loop
+
 *Date: Coming Soon*  
-*Difficulty: Intermediate*  
+*Difficulty: Beginner to Intermediate*  
 *Distance: 45 miles*
 
 Join us for an unforgettable mountain adventure through scenic alpine trails. This ride features breathtaking views, challenging climbs, and thrilling descents through pristine wilderness.
 
 **Highlights:**
+
 - Panoramic mountain vistas
 - Technical single-track sections  
 - Creek crossings
 - Wildlife viewing opportunities
 
-### Desert Explorer Series
+### Elk Meadows
+
 *Date: Coming Soon*  
 *Difficulty: Beginner to Advanced*  
 *Distance: Various routes 15-60 miles*
@@ -23,6 +26,7 @@ Join us for an unforgettable mountain adventure through scenic alpine trails. Th
 Discover the beauty of desert riding with our explorer series. Multiple route options ensure riders of all skill levels can participate and enjoy the unique challenges of desert terrain.
 
 **What to Expect:**
+
 - Sand and rock terrain
 - Cactus gardens and desert flora
 - Historic mining sites
@@ -31,13 +35,15 @@ Discover the beauty of desert riding with our explorer series. Multiple route op
 ## Ride Classifications
 
 ### 🟢 **Beginner Rides**
+
 - Well-maintained trails
 - Minimal technical challenges
 - Shorter distances (15-25 miles)
 - Support vehicle available
 - Perfect for new riders or those returning to riding
 
-### 🟡 **Intermediate Rides** 
+### 🟡 **Intermediate Rides**
+
 - Mix of trail types and surfaces
 - Some technical sections
 - Medium distances (25-45 miles)
@@ -45,6 +51,7 @@ Discover the beauty of desert riding with our explorer series. Multiple route op
 - Great for developing riders
 
 ### 🔴 **Advanced Rides**
+
 - Challenging technical terrain
 - Longer distances (45+ miles)
 - Significant elevation changes
@@ -53,13 +60,17 @@ Discover the beauty of desert riding with our explorer series. Multiple route op
 
 ## Popular Trail Systems
 
+Note: these are examples as we build the site. These will be replaced with actual local trails soon.
+
 ### Local Favorites
+
 - **Pine Ridge Trail Network**: 30+ miles of interconnected trails
 - **Boulder Creek Loop**: Scenic 18-mile circuit with water features
 - **Desert Wash Route**: 25-mile adventure through stunning desert landscape
 - **Mountain Peak Challenge**: Technical 12-mile climb to summit views
 
 ### Weekend Destinations
+
 - **National Forest Trails**: Multi-day adventures in pristine wilderness
 - **State Park System**: Family-friendly rides with camping options
 - **Historic Mining Routes**: Explore old mining roads and ghost towns
@@ -68,6 +79,7 @@ Discover the beauty of desert riding with our explorer series. Multiple route op
 ## Ride Preparation
 
 ### Essential Gear Checklist
+
 - [ ] Proper helmet (DOT/Snell approved)
 - [ ] Protective boots and gloves
 - [ ] Long pants and riding jacket
@@ -78,6 +90,7 @@ Discover the beauty of desert riding with our explorer series. Multiple route op
 - [ ] Navigation device/maps
 
 ### Pre-Ride Safety Check
+
 - [ ] Tire condition and pressure
 - [ ] Chain lubrication and tension
 - [ ] Brake function
@@ -92,6 +105,7 @@ Check our [news blog](/blog) for detailed ride reports with photos, stories, and
 ## Planning a Ride?
 
 ### Ride Leader Guidelines
+
 - Scout routes in advance
 - Assess skill requirements honestly
 - Plan for varying abilities in the group
@@ -99,7 +113,9 @@ Check our [news blog](/blog) for detailed ride reports with photos, stories, and
 - Brief all participants on route and safety
 
 ### Suggest a Ride
+
 Have a great trail you'd like to share with the club? [Contact us](/contact) with your ride suggestions, including:
+
 - Trail location and access information
 - Difficulty level and distance
 - Special features or highlights

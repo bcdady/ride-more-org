@@ -36,7 +36,7 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         Enhance your riding skills with our workshops and safety training.
-        Learn proper techniques, trail etiquette, and emergency preparedness.
+        Learn proper techniques, trail etiquette, and safe riding practices.
       </>
     ),
   },
