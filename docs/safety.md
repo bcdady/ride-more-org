@@ -9,18 +9,21 @@ sidebar_position: 2
 Off-road motorcycle riding involves inherent risks. Following these safety guidelines significantly reduces those risks and helps ensure every rider returns home safely.
 
 ### 1. Never Ride Alone
+
 - Always ride with at least one other person
 - Establish a buddy system for group rides
 - Have a designated sweep rider for larger groups
 - Maintain visual contact when possible
 
 ### 2. Inform Others of Your Plans
+
 - Share your planned route and expected return time
 - Leave contact information for your riding area
 - Check in when you arrive and when you return
 - Have an emergency contact plan
 
 ### 3. Know Your Limits
+
 - Ride within your skill level
 - Don't be pressured to attempt terrain beyond your abilities
 - Turn back if conditions exceed your comfort zone
@@ -29,6 +32,7 @@ Off-road motorcycle riding involves inherent risks. Following these safety guide
 ## Essential Safety Gear
 
 ### Mandatory Equipment
+
 - **DOT or Snell approved helmet** - Non-negotiable
 - **Eye protection** - Goggles or face shield
 - **Long pants** - Durable material, preferably riding specific
@@ -37,6 +41,7 @@ Off-road motorcycle riding involves inherent risks. Following these safety guide
 - **Boots** - Over-the-ankle protection, sturdy sole
 
 ### Recommended Upgrades
+
 - Chest/back protector
 - Knee and elbow guards  
 - Heavy-duty riding pants with padding
@@ -46,6 +51,7 @@ Off-road motorcycle riding involves inherent risks. Following these safety guide
 ## Pre-Ride Safety Checklist
 
 ### Bike Inspection
+
 - [ ] Tire pressure and condition
 - [ ] Brake function (front and rear)
 - [ ] Chain tension and lubrication
@@ -54,15 +60,17 @@ Off-road motorcycle riding involves inherent risks. Following these safety guide
 - [ ] Controls operation (throttle, clutch, steering)
 
 ### Personal Preparation
+
 - [ ] Proper safety gear worn correctly
 - [ ] Hydration and nutrition planned
-- [ ] Emergency supplies packed
+- [ ] Essential supplies packed
 - [ ] Communication devices charged
 - [ ] Route and weather reviewed
 
 ## On-Trail Safety Practices
 
 ### Group Riding Protocol
+
 1. **Pre-ride briefing** - Discuss route, signals, regrouping points
 2. **Maintain spacing** - Keep safe following distance
 3. **Use hand signals** - Establish clear communication system
@@ -70,6 +78,7 @@ Off-road motorcycle riding involves inherent risks. Following these safety guide
 5. **Regular regrouping** - Check on all riders periodically
 
 ### Environmental Awareness
+
 - **Weather conditions** - Monitor for changes
 - **Trail conditions** - Adapt speed for terrain
 - **Wildlife** - Be aware and respectful
@@ -77,6 +86,7 @@ Off-road motorcycle riding involves inherent risks. Following these safety guide
 - **Daylight** - Plan return before dark
 
 ### Emergency Protocols
+
 - **Stop immediately** for any injury or major mechanical issue
 - **Assess the situation** before taking action
 - **Signal for help** using whistle, mirror, or phone
@@ -86,6 +96,7 @@ Off-road motorcycle riding involves inherent risks. Following these safety guide
 ## Emergency Preparedness
 
 ### Essential Emergency Supplies
+
 - First aid kit with basic trauma supplies
 - Emergency shelter (space blanket)
 - Extra water and high-energy food
@@ -95,13 +106,16 @@ Off-road motorcycle riding involves inherent risks. Following these safety guide
 - Signaling mirror or bright fabric
 
 ### Communication Devices
+
 - Cell phone in waterproof case
 - Satellite communicator for remote areas
 - Two-way radios for group communication
 - Emergency beacon (PLB/EPIRB) for extreme remote riding
 
 ### Emergency Contacts
+
 Keep these numbers easily accessible:
+
 - 911 (Emergency services)
 - Local sheriff/park rangers
 - Club emergency contact
@@ -111,12 +125,14 @@ Keep these numbers easily accessible:
 ## Weather Safety
 
 ### Before Riding
+
 - Check current and forecast conditions
 - Understand weather patterns in your riding area
 - Have backup plans for weather changes
 - Know signs of approaching severe weather
 
 ### During Weather Events
+
 - **Lightning** - Seek lowest ground, avoid peaks and ridges
 - **Flash floods** - Never cross flowing water
 - **High winds** - Consider postponing ride
@@ -126,12 +142,14 @@ Keep these numbers easily accessible:
 ## Wildlife Safety
 
 ### Common Encounters
+
 - **Large animals** (deer, elk, cattle) - Give wide berth, stop if necessary
 - **Predators** (bears, mountain lions) - Make noise, travel in groups
 - **Snakes** - Watch where you step, wear proper boots
 - **Insects** - Carry sting relief, know allergies
 
 ### Best Practices
+
 - Make noise to avoid surprising animals
 - Store food properly when camping
 - Never feed or approach wild animals
@@ -140,11 +158,13 @@ Keep these numbers easily accessible:
 ## Trail Etiquette and Safety
 
 ### Right of Way
+
 1. Hikers have right of way over all others
 2. Horses have right of way over bicycles and motorcycles
 3. Uphill traffic has right of way over downhill
 
 ### Environmental Responsibility
+
 - Stay on designated trails
 - Pack out all trash
 - Don't disturb plants or animals
@@ -154,12 +174,14 @@ Keep these numbers easily accessible:
 ## Medical Considerations
 
 ### Pre-existing Conditions
+
 - Inform riding partners of any medical conditions
 - Carry necessary medications
 - Consider medical ID bracelet or card
-- Know your insurance coverage for emergency transport
+- Know your insurance coverage
 
 ### Common Injuries Prevention
+
 - **Dehydration** - Drink regularly, not just when thirsty
 - **Heat exhaustion** - Take breaks, wear appropriate clothing
 - **Cuts and abrasions** - Wear protective gear
@@ -168,6 +190,7 @@ Keep these numbers easily accessible:
 ## Club-Specific Safety Policies
 
 ### Ride Leader Responsibilities
+
 - Conduct pre-ride safety briefing
 - Assess skill levels and match to terrain
 - Monitor group throughout ride
@@ -175,6 +198,7 @@ Keep these numbers easily accessible:
 - Carry enhanced first aid supplies
 
 ### Member Responsibilities
+
 - Arrive with properly maintained equipment
 - Ride within posted skill level requirements
 - Follow group protocols and leader instructions
@@ -184,6 +208,7 @@ Keep these numbers easily accessible:
 ## Remember: When in Doubt, Don't
 
 The most important safety rule is knowing when not to proceed:
+
 - If weather conditions are dangerous
 - If trail conditions exceed your abilities
 - If equipment is not functioning properly
@@ -194,4 +219,4 @@ The most important safety rule is knowing when not to proceed:
 
 ---
 
-*Questions about safety guidelines or procedures? Contact our Safety Officer at safety@ride-more.org*
+*Questions about safety guidelines or procedures? Contact us at more@ride-more.org*

@@ -1,44 +1,56 @@
 # Upcoming Events
 
-## Monthly Club Rides
+*Missoula, Montana Chapter*
+
+## Weekly Club Rides (Seasonal)
 
 ### Saturday Trail Exploration
-**When**: Every 2nd Saturday of the month  
+
+**When**: Every 2nd Saturday (April - October)  
 **Time**: 9:00 AM - 4:00 PM  
+**Meeting Point**: Missoula area (location varies by ride)  
 **Skill Level**: All levels welcome  
-**Description**: Join us for a day of trail exploration! We'll discover new routes and enjoy the camaraderie of fellow riders. Routes vary from beginner-friendly to challenging terrain.
+**Description**: Join us for a day of trail exploration in the beautiful mountains surrounding Missoula! We'll discover new routes and enjoy the camaraderie of fellow riders. Routes vary from beginner-friendly forest roads to challenging single-track trails in the Bitterroot and Cabinet Mountains.
 
 ### Sunday Skills Workshop  
-**When**: Every 3rd Sunday of the month  
+
+**When**: Every 3rd Sunday (May - September)  
 **Time**: 10:00 AM - 2:00 PM  
+**Location**: Practice areas near Missoula  
 **Skill Level**: Beginner to Intermediate  
-**Description**: Improve your riding technique with hands-on workshops covering cornering, climbing, descending, and emergency maneuvers.
+**Description**: Improve your riding technique with hands-on workshops covering cornering, climbing, descending, and emergency maneuvers. These sessions are perfect for building confidence before tackling Montana's more challenging terrain.
 
 ## Special Events
 
-### Annual Adventure Rally
-**Date**: TBA - Spring 2025  
+### Annual Montana Adventure Rally
+
+**Date**: TBA - June 2025  
 **Duration**: 3 Days / 2 Nights  
-**Description**: Our biggest event of the year! Multi-day camping and riding adventure with guided tours, group meals, and evening entertainment.
+**Location**: Montana backcountry (camping required)  
+**Description**: Our biggest event of the year! Join us for a multi-day camping and riding adventure exploring Montana's pristine wilderness areas. The rally includes guided trail rides, group meals around the campfire, and evening entertainment under Big Sky country stars.
 
 ### Trail Maintenance Day
-**Date**: TBA - Fall 2024  
+
+**Date**: TBA - September 2025  
 **Time**: 8:00 AM - 3:00 PM  
-**Description**: Give back to the trails we love! Join us for trail maintenance work including clearing, bridge repair, and signage updates. Tools provided, just bring work gloves and enthusiasm.
+**Location**: Local trail systems around Missoula  
+**Description**: Give back to the trails we love! Join us for trail maintenance work in coordination with the Forest Service. Activities include trail clearing, bridge repair, and signage updates. Tools are provided—just bring work gloves and enthusiasm for preserving Montana's riding opportunities.
 
 ### New Rider Orientation
-**Date**: TBA  
+
+**Date**: TBA - Spring 2025  
 **Time**: 6:00 PM - 8:00 PM  
-**Location**: Club Meetup Location  
-**Description**: Perfect for prospective members! Learn about the club, meet other riders, and get oriented to our riding philosophy and safety practices.
+**Location**: Missoula area meetup location  
+**Description**: Perfect for prospective members! Learn about the club, meet other riders, and get oriented to our riding philosophy and safety practices. We'll cover local trail systems, seasonal riding conditions, and Montana-specific riding considerations.
 
 ## Regular Meetups
 
 ### Monthly Club Meeting
-**When**: First Wednesday of each month  
+
+**When**: First Wednesday of each month (year-round)  
 **Time**: 7:00 PM - 9:00 PM  
-**Location**: TBA  
-**Description**: Plan upcoming rides, discuss club business, and socialize with fellow members.
+**Location**: Missoula area venue (details in newsletter)  
+**Description**: Plan upcoming rides, discuss club business, and socialize with fellow members. Winter meetings focus on planning, maintenance workshops, and social activities to keep the community connected during the off-season.
 
 ## Event Calendar
 
@@ -46,7 +58,7 @@
 
 ## Want to Suggest an Event?
 
-Have an idea for a club ride or event? We'd love to hear from you! [Contact us](/contact) with your suggestions.
+Have an idea for a club ride or event? We'd love to hear from you! [Contact us](mailto:more@ride-more.org?subject=Event%20Suggestion) with your suggestions.
 
 ## Event Guidelines
 

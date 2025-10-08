@@ -25,7 +25,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/community-first.svg').default,
     description: (
       <>
-        Join a passionate community of riders who share your love for off-road exploration.
+        Join a growing community of people who share your enthusiasm for motorcycle exploration.
         Share experiences, learn from others, and build lasting friendships on the trail.
       </>
     ),
@@ -36,7 +36,7 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         Enhance your riding skills with our workshops and safety training.
-        Learn proper techniques, trail etiquette, and emergency preparedness.
+        Learn proper techniques, trail etiquette, and safe riding practices.
       </>
     ),
   },
