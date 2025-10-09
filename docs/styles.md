@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Motorcycle Types & Riding Styles | MORE Club
+title: Motorcycle Types & Riding Styles
 ---
 
 # Motorcycle Types and Riding Styles

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Trail Information | MORE Club
+title: Trail Information
 ---
 
 # Trail Information
