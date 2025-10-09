@@ -38,7 +38,7 @@ All members and prospective members welcome!
 Stay connected with the MORE club community:
 
 - **Website**: [ride-more.org](https://ride-more.org)  
-- **Discord**: *Details on this and additional social media channels coming soon*
+- **Discord**: Join our [MORE Discord server](/discord) for real-time chat, ride planning, and community discussions
 
 ## Directions to Common Meeting Spots
 

@@ -92,6 +92,7 @@ const config: Config = {
           label: 'Resources',
         },
         {to: '/blog', label: 'News', position: 'left'},
+        {to: '/discord', label: 'Discord', position: 'left'},
         {to: '/contact', label: 'Contact', position: 'right'},
       ],
     },
@@ -138,6 +139,10 @@ const config: Config = {
             {
               label: 'Contact Us',
               to: '/contact',
+            },
+            {
+              label: 'Discord Community',
+              to: '/discord',
             },
             {
               label: 'News & Updates',
