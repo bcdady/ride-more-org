@@ -63,12 +63,6 @@ Our MORE Missoula Discord is organized into different channels for different pur
 - **#bike-talk** - Motorcycle maintenance, mods, and tech discussion
 - **#photos** - Share your best ride photos and videos
 
-### 🔊 Voice Channels
-
-- **General Voice** - Drop in for casual voice chat
-- **Ride Planning** - Voice chat for planning rides
-- **Tech Support** - Help with bike issues over voice
-
 ## Discord Etiquette for MORE Members
 
 ### Do's
