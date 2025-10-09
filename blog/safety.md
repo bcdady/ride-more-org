@@ -14,6 +14,20 @@ Before you fire up your bike and head out on an adventure, take a few minutes to
 
 ## The Motorcycle Safety Check (T-CLOCS)
 
+For the history of T-CLOCS, from the [Motorcycle Safety Foundation](https://www.msf-usa.org/), check out [their announcement from 2014](https://msf-usa.org/uncategorized/msf-releases-motorcycle-pre-ride-inspection-how-to-video-new-t-clocs-video-shows-how-costly-repairs-and-injuries-can-be-avoided/#:~:text=T%2DCLOCS%20is%20so%20crucial,MSF%20Basic%20RiderCourse%20Rider%20Handbook).
+
+<div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden' }}>
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/DD3dduBRJuA?rel=0"
+    title="Pre-Ride Safety Checklist"
+    style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%' }}
+    frameBorder="0"
+    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerPolicy="strict-origin-when-cross-origin"
+    allowFullScreen
+  />
+</div>
+
 ### T - Tires and Wheels
 
 - **Tire Pressure**: Check both front and rear tire pressure when cold
@@ -133,6 +147,8 @@ The goal is to return home safely with great memories and stories to share. When
 ---
 
 *Have questions about safety gear or maintenance? Contact us at [more@ride-more.org](mailto:more@ride-more.org)*
+
+📚 **For comprehensive safety information**, see our complete [Safety Guidelines](/docs/safety) covering emergency procedures, wildlife safety, and club policies.
 
 **Next Workshop**: Basic Off-Road Techniques - Date TBD  
 **Trail Tip**: Always let someone know your planned route and expected return time!
