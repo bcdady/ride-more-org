@@ -1,5 +1,5 @@
 ---
-slug: welcome-to-more
+slug: welcome
 title: Welcome to the M.O.R.E. Club
 date: 2025-10-07
 authors: [bryan]
