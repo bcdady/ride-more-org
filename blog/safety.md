@@ -14,6 +14,8 @@ Before you fire up your bike and head out on an adventure, take a few minutes to
 
 ## The Motorcycle Safety Check (T-CLOCS)
 
+For the history of T-CLOCS, from the [Motorcycle Safety Foundation](https://www.msf-usa.org/), check out [their announcement from 2014](https://msf-usa.org/uncategorized/msf-releases-motorcycle-pre-ride-inspection-how-to-video-new-t-clocs-video-shows-how-costly-repairs-and-injuries-can-be-avoided/#:~:text=T%2DCLOCS%20is%20so%20crucial,MSF%20Basic%20RiderCourse%20Rider%20Handbook).
+
 <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden' }}>
   <iframe
     src="https://www.youtube-nocookie.com/embed/DD3dduBRJuA?rel=0"
