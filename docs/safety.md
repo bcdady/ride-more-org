@@ -8,7 +8,7 @@ sidebar_position: 2
 
 Off-road motorcycle riding involves inherent risks. Following these safety guidelines significantly reduces those risks and helps ensure every rider returns home safely.
 
-### 1. Never Ride Alone
+### 1. Ride Together
 
 - Always ride with at least one other person
 - Establish a buddy system for group rides
@@ -49,6 +49,8 @@ Off-road motorcycle riding involves inherent risks. Following these safety guide
 - High-visibility colors
 
 ## Pre-Ride Safety Checklist
+
+📝 **Quick Reference**: For a detailed pre-ride checklist with video guide, see our [Pre-Ride Safety Checklist](/blog/safety) blog post.
 
 ### Bike Inspection
 
