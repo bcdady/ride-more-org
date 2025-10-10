@@ -1,19 +1,8 @@
 # Cloudflare Pages Redirects Configuration
 # Enforce canonical URLs with trailing slashes for SEO
 
-# Redirect www to non-www 
+/:slug /:slug/ 301!
+
+# Domain-specific redirects (only work on production domain)
 https://www.ride-more.org/* https://ride-more.org/:splat 301!
 http://www.ride-more.org/* https://ride-more.org/:splat 301!
-
-# Force HTTPS
-http://ride-more.org/* https://ride-more.org/:splat 301!
-
-# Add trailing slash to paths that don't have one (excluding files)
-# This specifically targets the root and page paths
-/docs /docs/ 301!
-/blog /blog/ 301!
-/contact /contact/ 301!
-/discord /discord/ 301!
-
-# Catch-all for root domain
-https://ride-more.org https://ride-more.org/ 301!
