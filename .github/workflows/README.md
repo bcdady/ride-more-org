@@ -19,14 +19,14 @@ This directory contains GitHub Actions workflows for automated CI/CD, security s
 
 **Jobs:**
 
-- **Build & Test** - Single environment testing (Node.js 22.x, Bun 1.x)
+- **Build & Test** - Single environment testing (Node.js 22.x, Bun 1.2.x)
 - **Lint & Format** - Code quality checks (ESLint, Prettier)
 - **Security Audit** - Dependency vulnerability scanning
 
 **Features:**
 
 - ✅ **Environment matching** - Tests with exact Cloudflare Pages versions
-- ✅ **Bun 1.x** and **Node.js 22.x** (compatible with Cloudflare Pages System v3)
+- ✅ **Bun 1.2.x** and **Node.js 22.x** (compatible with Cloudflare Pages System v3)
 - ✅ **Dependency caching** for faster builds
 - ✅ **Code quality enforcement** - ESLint and Prettier checks
 - ✅ **Essential validation** - Build verification and type checking
