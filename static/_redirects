@@ -1,14 +1,19 @@
 # Cloudflare Pages Redirects Configuration
-# Fix SEO duplicate content issues by redirecting non-trailing slash URLs to trailing slash versions
+# Enforce canonical URLs with trailing slashes for SEO
 
-# Redirect all non-trailing slash URLs to trailing slash with 301 (permanent redirect)
-# This ensures search engines see only one canonical version of each page
-/:slug /:slug/ 301!
+# Redirect www to non-www 
+https://www.ride-more.org/* https://ride-more.org/:splat 301!
+http://www.ride-more.org/* https://ride-more.org/:splat 301!
 
-# Handle specific edge cases
-# Root domain without trailing slash to with trailing slash
+# Force HTTPS
+http://ride-more.org/* https://ride-more.org/:splat 301!
+
+# Add trailing slash to paths that don't have one (excluding files)
+# This specifically targets the root and page paths
+/docs /docs/ 301!
+/blog /blog/ 301!
+/contact /contact/ 301!
+/discord /discord/ 301!
+
+# Catch-all for root domain
 https://ride-more.org https://ride-more.org/ 301!
-http://ride-more.org https://ride-more.org/ 301!
-
-# Ensure HTTPS redirect while handling trailing slash
-http://:domain/:path https://:domain/:path/ 301!
