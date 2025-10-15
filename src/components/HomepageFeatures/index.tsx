@@ -1,5 +1,6 @@
 import type {ReactNode} from 'react';
 import clsx from 'clsx';
+import Link from '@docusaurus/Link';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
@@ -42,7 +43,7 @@ const FeatureList: FeatureItem[] = [
         Learn proper techniques, trail etiquette, and safe riding practices.
       </>
     ),
-    linkTo: '/events',
+    linkTo: '/docs/safety',
   },
 ];
 
