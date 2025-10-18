@@ -44,7 +44,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/bcdady/ride-more-org /tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -151,7 +151,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Motorcycle Off-Road Explorers Club. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Motorcycle Off-Road Explorers Club. Built with <a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus</a>.`,
     },
     prism: {
       theme: prismThemes.github,
