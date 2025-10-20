@@ -1,12 +1,12 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
   title: 'Motorcycle Off-Road Explorers',
-  tagline: 'M.O.R.E. Adventure awaits on the next ride',
+  tagline: 'MORE adventure awaits on the next ride',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -19,11 +19,6 @@ const config: Config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'bcdady', // Usually your GitHub org/user name.
-  projectName: 'ride-more-org', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -43,13 +38,13 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/bcdady/ride-more-org/tree/main/',
         },
         blog: {
           showReadingTime: true,
           blogTitle: 'Club News & Ride Reports',
-          blogDescription: 'Latest updates, announcements, and adventure stories from the Motorcycle Off-Road Explorers club',
+          blogDescription:
+            'Latest updates, announcements, and adventure stories from the Motorcycle Off-Road Explorers club',
           postsPerPage: 5,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -81,19 +76,19 @@ const config: Config = {
         src: 'img/more-logo.svg',
       },
       items: [
-        {to: '/about', label: 'About', position: 'left'},
-        {to: '/events', label: 'Events', position: 'left'},
-        {to: '/rides', label: 'Rides', position: 'left'},
-        {to: '/members', label: 'Members', position: 'left'},
+        { to: '/about', label: 'About', position: 'left' },
+        { to: '/events', label: 'Events', position: 'left' },
+        { to: '/rides', label: 'Rides', position: 'left' },
+        { to: '/members', label: 'Members', position: 'left' },
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'Resources',
         },
-        {to: '/blog', label: 'News', position: 'left'},
-        {to: '/discord', label: 'Discord', position: 'left'},
-        {to: '/contact', label: 'Contact', position: 'right'},
+        { to: '/blog', label: 'News', position: 'left' },
+        { to: '/discord', label: 'Discord', position: 'left' },
+        { to: '/contact', label: 'Contact', position: 'right' },
       ],
     },
     footer: {
@@ -151,7 +146,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Motorcycle Off-Road Explorers Club. Built with Docusaurus.`,
+      copyright: `Copyright © 2025 Motorcycle Off-Road Explorers Club. Built with <a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer"><u>Docusaurus</u></a>.`,
     },
     prism: {
       theme: prismThemes.github,

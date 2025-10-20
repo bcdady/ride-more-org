@@ -23,6 +23,11 @@ maintenance:
   permalink: /maintenance
   description: Tips and guides for motorcycle maintenance
 
+members:
+  label: Members
+  permalink: /members
+  description: Get to know other club members
+
 news:
   label: Club News
   permalink: /news

@@ -1,18 +1,21 @@
 bryan:
   name: Bryan Dady
-  title: Club President & Founder
+  title: Club Founder
   url: https://bryandady.com
-  image_url: https://github.com/bcdady.png
+  image_url: /img/bryan_avatar.jpg
   page: true
   socials:
     github: bcdady
+    instagram: bcdady
 
 ride-captain:
   name: Ride Captain
   title: Trail Guide & Safety Lead
-  image_url: /img/motorcycle-avatar.png
+  image_url: /img/more-moto.png
 
 club-admin:
   name: MORE Club
   title: Official Club Updates
-  image_url: /img/logo.svg
+  image_url: /img/more-logo.png
+  socials:
+    instagram: moto_off_road_explorers
