@@ -5,6 +5,16 @@
   width: 100%;
 }
 
+.features a {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.2s ease;
+}
+
+.features a:hover {
+  color: var(--ifm-color-primary);
+}
+
 .featureImg {
   height: 200px;
   width: 200px;

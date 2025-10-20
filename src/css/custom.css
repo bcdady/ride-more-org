@@ -14,17 +14,18 @@
   --ifm-color-primary-light: #ff7f48;
   --ifm-color-primary-lighter: #ff8754;
   --ifm-color-primary-lightest: #ff9d71;
-  
+
   /* Secondary colors - earthy tones for outdoor feel */
-  --ifm-color-secondary: #4a5d23;
-  --ifm-color-success: #2d8653;
+  --ifm-color-secondary: #8b4513;
+  --ifm-color-success: #2d5016;
   --ifm-color-warning: #ffb02e;
   --ifm-color-danger: #d63031;
-  
+
   /* Typography */
   --ifm-code-font-size: 95%;
-  --ifm-font-family-base: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif;
-  
+  --ifm-font-family-base:
+    system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif;
+
   /* Shadows and effects */
   --docusaurus-highlighted-code-line-bg: rgba(255, 107, 53, 0.1);
   --ifm-navbar-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
@@ -45,7 +46,11 @@
 
 /* Custom styling for adventure/motorcycle theme */
 .hero {
-  background: linear-gradient(135deg, var(--ifm-color-primary-darkest) 0%, var(--ifm-color-primary) 100%);
+  background: linear-gradient(
+    135deg,
+    var(--ifm-color-primary-darkest) 0%,
+    var(--ifm-color-primary) 100%
+  );
   position: relative;
 }
 
@@ -108,6 +113,11 @@
   margin-bottom: 1rem;
 }
 
+.text--justified h3 {
+  color: var(--ifm-color-primary-darkest);
+  margin-bottom: 1rem;
+}
+
 [data-theme='dark'] .text--center h3 {
   color: var(--ifm-color-primary-light);
 }
@@ -119,7 +129,14 @@
 
 /* Footer styling */
 .footer {
-  background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+  background: linear-gradient(135deg, #d4c4a8 0%, #e6d7bf 100%);
+  --ifm-footer-color: #3c2415;
+  --ifm-footer-link-color: #5d3a1a;
+  --ifm-footer-title-color: #2c1810;
+}
+
+[data-theme='dark'] .footer {
+  background: linear-gradient(135deg, #2c1810 0%, #3c2415 100%);
 }
 
 .footer__title {
@@ -127,17 +144,28 @@
   font-weight: 600;
 }
 
+/* Copyright link styling - only change color on hover */
+.footer__copyright a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.footer__copyright a:hover {
+  color: var(--ifm-color-primary-light);
+}
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
   .hero__title {
     font-size: 2rem;
   }
-  
+
   .buttons {
     flex-direction: column;
     align-items: center;
   }
-  
+
   .button {
     margin: 0.5rem 0;
     width: 100%;
