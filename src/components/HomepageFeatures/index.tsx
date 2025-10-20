@@ -93,9 +93,9 @@ export default function HomepageFeatures(): ReactNode {
                     <u>GitHub repository</u>
                   </Link>{' '}
                   to get started with pull requests and code contributions. Whether you want to fix
-                  a typo, post your own blog entry documentation, or add a new page for MORE in your
-                  area, your input helps make this resource better for everyone. You can also send
-                  your ideas and feedback to{' '}
+                  a typo, post your own blog entry, or add a new page for MORE in your local area,
+                  your input helps make this resource better for everyone. You can also send your
+                  ideas and feedback to{' '}
                   <Link to="mailto:more@ride-more.org">
                     <u>more@ride-more.org</u>
                   </Link>{' '}
