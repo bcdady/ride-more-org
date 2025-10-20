@@ -137,6 +137,9 @@
 
 [data-theme='dark'] .footer {
   background: linear-gradient(135deg, #2c1810 0%, #3c2415 100%);
+  --ifm-footer-color: inherit;
+  --ifm-footer-link-color: inherit;
+  --ifm-footer-title-color: inherit;
 }
 
 .footer__title {
