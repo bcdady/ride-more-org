@@ -1,8 +1,13 @@
 # Cloudflare Pages Redirects Configuration
 # Enforce canonical URLs with trailing slashes for SEO
 
-/:slug /:slug/ 301!
+/home / 301
+/news /blog/ 301
+/news/ /blog/ 301
+/resources /docs/intro/ 301
+
+/:slug /:slug/ 301
 
 # Domain-specific redirects (only work on production domain)
-https://www.ride-more.org/* https://ride-more.org/:splat 301!
-http://www.ride-more.org/* https://ride-more.org/:splat 301!
+https://ride-more.org https://ride-more.org/ 301
+https://www.ride-more.org https://ride-more.org/ 301
