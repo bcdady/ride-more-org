@@ -73,7 +73,7 @@ const config: Config = {
       title: 'MORE Club',
       logo: {
         alt: 'MORE Club Logo',
-        src: 'img/more-logo.svg',
+        src: 'img/more-logo.png',
       },
       items: [
         { to: '/about', label: 'About', position: 'left' },
