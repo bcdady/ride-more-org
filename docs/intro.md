@@ -1,4 +1,6 @@
 ---
+title: MORE Adventure and Dual-Sport motorcycle club
+description: Overview of Motorcycle Off-Road Explorers motorcycle club resources
 sidebar_position: 1
 ---
 
