@@ -32,3 +32,8 @@ news:
   label: Club News
   permalink: /news
   description: General club announcements and updates
+
+bdr:
+  label: BDR
+  permalink: /bdr
+  description: Backcountry Discovery Routes and related adventure riding content
