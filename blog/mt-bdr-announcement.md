@@ -16,7 +16,7 @@ Exciting news for adventure riders! **Backcountry Discovery Routes (BDR)** has o
 
 The Montana BDR route promises to deliver the same high-quality experience that BDR is known for - meticulously researched trails that balance challenge with accessibility, while highlighting the natural beauty and cultural heritage of Big Sky Country.
 
-See <https://ridebdr.com/mtbdr/> for more information, including the [Official Trailer preview video](https://youtu.be/ZwWzYJcDxzc) and details about the route development process.
+See [ridebdr.com/mtbdr](https://ridebdr.com/mtbdr/) for more information, including the [Official Trailer preview video](https://youtu.be/ZwWzYJcDxzc) and details about the route development process.
 
 ### Montana's Diverse Terrain
 
@@ -32,7 +32,7 @@ Montana offers some of the most diverse and spectacular riding terrain in North 
 
 As part of the announcement, Backcountry Discovery Routes is hosting a film premiere in Bozeman, Montana, showcasing the route development process and highlighting the incredible landscapes riders will experience. These premieres have become a signature part of BDR's route launches, bringing together the adventure riding community to celebrate new opportunities for exploration.
 
-/insert image here ![Montana BDR Expedition Documentary Film Premiere Poster](https://ridebdr.com/wp-content/uploads/2025/12/MTBDR_FilmPremiere_Boseman_4x5-update-1-824x1030.jpg)
+![Montana BDR Expedition Documentary Film Premiere Poster](https://ridebdr.com/wp-content/uploads/2025/12/MTBDR_FilmPremiere_Boseman_4x5-update-1-824x1030.jpg)
 
 To check if any tickets remain available, visit the [MTBDR Expedition Documentary Film Premiere](https://ridebdr.com/news/mtbdr-film-premiere-bozeman-mt/).
 
