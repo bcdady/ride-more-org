@@ -77,7 +77,7 @@ While specific route details are still being finalized, now is a great time to s
 
 ### Local Montana Connection: onX Offroad Maps
 
-Speaking of navigation and route planning, I'd like call your attention the only featured, Montana-based sponsor: [onX Offroad](https://www.onxmaps.com/offroad/app/features/trail-maps). OnX is a fantastic mapping platform founded right here in Missoula, Montana! onX provides detailed off-road maps with land ownership data, trail information, and offline capabilities that are invaluable for backcountry adventures like the Montana BDR.
+Speaking of navigation and route planning, I'd like to call your attention to the only featured, Montana-based sponsor: [onX Offroad](https://www.onxmaps.com/offroad/app/features/trail-maps). OnX is a fantastic mapping platform founded right here in Missoula, Montana! onX provides detailed off-road maps with land ownership data, trail information, and offline capabilities that are invaluable for backcountry adventures like the Montana BDR.
 
 ## MORE Club Connection
 
