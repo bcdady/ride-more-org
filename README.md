@@ -7,7 +7,8 @@
 
 Welcome to the **MORE Club Resource Center** - your comprehensive guide to off-road motorcycle riding, safety guidelines, trail information, and community resources.
 
-🌐 **Live Site:** [ride-more.org](https://ride-more.org)  
+🌐 **Live Site:** [ride-more.org](https://ride-more.org) [[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/2gug8.svg)](https://uptime.betterstack.com/?utm_source=status_badge)]
+
 📧 **Contact:** [more@ride-more.org](mailto:more@ride-more.org)
 
 ## 🏍️ What We Provide
