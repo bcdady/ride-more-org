@@ -36,7 +36,7 @@ The MORE Club Resource Center is an active community project in its founding pha
 
 **Want to be part of building this community?** We welcome founding members who want to help shape our club culture, event programming, and riding community. Your input and participation in this early stage will directly influence what the MORE Club becomes.
 
-[Join our Discord](/discord) | [Contact us](mailto:more@ride-more.org) to get involved
+[Join our Discord](https://ride-more.org/discord) | [Contact us](mailto:more@ride-more.org) to get involved
  
 ## 🚀 Quick Start for Contributors
 
