@@ -44,7 +44,7 @@ jobs:
       - name: Check yarn.lock consistency
         run: |
           echo "Running immutable install to verify yarn.lock..."
-          if ! yarn install --immutable --immutable-cache; then
+          if ! yarn install --immutable; then
             echo "::error::yarn.lock is out of sync with package.json. Run 'yarn install' locally and commit the updated yarn.lock"
             exit 1
           fi
