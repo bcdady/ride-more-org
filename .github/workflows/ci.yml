@@ -164,6 +164,8 @@ jobs:
       - name: Install dependencies
         run: yarn install --immutable
 
+npm warn config production Use `--omit=dev` instead.
+
       - name: Run security audit on production dependencies
         run: |
           echo "Running security audit on production dependencies..."
@@ -171,7 +173,7 @@ jobs:
           echo ""
 
           # Check production dependencies only (fail on moderate+)
-          if npm audit --production --audit-level moderate; then
+          if yarn npm audit --environment production --severity moderate; then
             echo "✅ No vulnerabilities in production dependencies"
           else
             echo "❌ Found vulnerabilities in production dependencies"
@@ -180,4 +182,4 @@ jobs:
 
           echo ""
           echo "Checking all dependencies for informational purposes..."
-          npm audit --audit-level moderate || echo "⚠️  Found vulnerabilities in dev dependencies (non-blocking)"
+          yarn npm audit --severity moderate || echo "⚠️  Found vulnerabilities in dev dependencies (non-blocking)"
