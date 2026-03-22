@@ -13,8 +13,7 @@ concurrency:
 jobs:
   build-and-test:
     # ensure the project builds correctly for the same Node.js
-    # and Bun versions as used in Cloudflare production Build
-    # system version Version 3: Node.js 22.16, Bun 1.2
+    # version as used in production
     name: Build and Test
     runs-on: ubuntu-latest
     timeout-minutes: 10
@@ -27,32 +26,39 @@ jobs:
         uses: actions/setup-node@v6
         with:
           node-version: '22'
-          cache: 'npm'
 
-      - name: Setup Bun 1.x
-        uses: oven-sh/setup-bun@v2
-        with:
-          bun-version: '1.2'
+      - name: Enable Corepack
+        run: corepack enable
 
-      - name: Cache dependencies
+      - name: Cache Yarn dependencies
         uses: actions/cache@v5
         with:
-          path: ~/.bun/install/cache
-          key: ${{ runner.os }}-bun-${{ hashFiles('**/bun.lockb') }}
+          path: |
+            .yarn/cache
+            .yarn/unplugged
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
           restore-keys: |
-            ${{ runner.os }}-bun-
+            ${{ runner.os }}-yarn-
+
+      - name: Verify Yarn version
+        run: |
+          yarn --version
+          echo "Expected: 4.13.0"
+          if [ "$(yarn --version)" != "4.13.0" ]; then
+            echo "ERROR: Yarn version mismatch!"
+            exit 1
+          fi
 
       - name: Install dependencies
-        run: bun install --frozen-lockfile
+        run: yarn install --immutable
 
       - name: Run type checking
-        run: bun run typecheck
+        run: yarn typecheck
 
       - name: Build site
-        run: bun run build
+        run: yarn build
         env:
           NODE_ENV: production
-
 
   lint-and-format:
     name: Lint and Format Check
@@ -68,20 +74,37 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Setup Bun 1.x
-        uses: oven-sh/setup-bun@v2
+      - name: Enable Corepack
+        run: corepack enable
+
+      - name: Cache Yarn dependencies
+        uses: actions/cache@v5
         with:
-          bun-version: '1.2'
+          path: |
+            .yarn/cache
+            .yarn/unplugged
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
+
+      - name: Verify Yarn version
+        run: |
+          yarn --version
+          echo "Expected: 4.13.0"
+          if [ "$(yarn --version)" != "4.13.0" ]; then
+            echo "ERROR: Yarn version mismatch!"
+            exit 1
+          fi
 
       - name: Install dependencies
-        run: bun install --frozen-lockfile
+        run: yarn install --immutable
 
       - name: Check Prettier formatting
         run: |
           if command -v prettier &> /dev/null || [ -f "node_modules/.bin/prettier" ]; then
             echo "Checking code formatting with Prettier..."
-            bunx prettier --check "**/*.{js,jsx,ts,tsx,md,json,yml,yaml}" || {
-              echo "❌ Code formatting issues found. Run 'bunx prettier --write .' to fix."
+            yarn dlx prettier --check "**/*.{js,jsx,ts,tsx,md,json,yml,yaml}" || {
+              echo "❌ Code formatting issues found. Run 'yarn dlx prettier --write .' to fix."
               exit 1
             }
             echo "✅ All files are properly formatted"
@@ -93,8 +116,8 @@ jobs:
         run: |
           if [ -f ".eslintrc.js" ] || [ -f ".eslintrc.json" ] || [ -f "eslint.config.js" ] || [ -f "node_modules/.bin/eslint" ]; then
             echo "Running ESLint..."
-            bunx eslint . --ext .js,.jsx,.ts,.tsx || {
-              echo "❌ ESLint issues found. Run 'bunx eslint . --fix' to fix auto-fixable issues."
+            yarn dlx eslint . --ext .js,.jsx,.ts,.tsx || {
+              echo "❌ ESLint issues found. Run 'yarn dlx eslint . --fix' to fix auto-fixable issues."
               exit 1
             }
             echo "✅ No ESLint issues found"
@@ -116,28 +139,47 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Setup Bun 1.x
-        uses: oven-sh/setup-bun@v2
+      - name: Enable Corepack
+        run: corepack enable
+
+      - name: Cache Yarn dependencies
+        uses: actions/cache@v5
         with:
-          bun-version: '1.2'
+          path: |
+            .yarn/cache
+            .yarn/unplugged
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
+
+      - name: Verify Yarn version
+        run: |
+          yarn --version
+          echo "Expected: 4.13.0"
+          if [ "$(yarn --version)" != "4.13.0" ]; then
+            echo "ERROR: Yarn version mismatch!"
+            exit 1
+          fi
 
       - name: Install dependencies
-        run: bun install --frozen-lockfile
+        run: yarn install --immutable
+
+npm warn config production Use `--omit=dev` instead.
 
       - name: Run security audit on production dependencies
         run: |
           echo "Running security audit on production dependencies..."
           echo "⚠️  Only production dependencies will cause failures."
           echo ""
-          
+
           # Check production dependencies only (fail on moderate+)
-          if npm audit --production --audit-level moderate; then
+          if yarn npm audit --environment production --severity moderate; then
             echo "✅ No vulnerabilities in production dependencies"
           else
             echo "❌ Found vulnerabilities in production dependencies"
             exit 1
           fi
-          
+
           echo ""
           echo "Checking all dependencies for informational purposes..."
-          npm audit --audit-level moderate || echo "⚠️  Found vulnerabilities in dev dependencies (non-blocking)"
+          yarn npm audit --severity moderate || echo "⚠️  Found vulnerabilities in dev dependencies (non-blocking)"
