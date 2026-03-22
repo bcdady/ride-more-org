@@ -30,6 +30,16 @@ jobs:
       - name: Enable Corepack
         run: corepack enable
 
+      - name: Cache Yarn dependencies
+        uses: actions/cache@v5
+        with:
+          path: |
+            .yarn/cache
+            .yarn/unplugged
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
+
       - name: Verify Yarn version
         run: |
           yarn --version
@@ -66,6 +76,16 @@ jobs:
 
       - name: Enable Corepack
         run: corepack enable
+
+      - name: Cache Yarn dependencies
+        uses: actions/cache@v5
+        with:
+          path: |
+            .yarn/cache
+            .yarn/unplugged
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
 
       - name: Verify Yarn version
         run: |
@@ -121,6 +141,16 @@ jobs:
 
       - name: Enable Corepack
         run: corepack enable
+
+      - name: Cache Yarn dependencies
+        uses: actions/cache@v5
+        with:
+          path: |
+            .yarn/cache
+            .yarn/unplugged
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
 
       - name: Verify Yarn version
         run: |
