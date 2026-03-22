@@ -1,6 +1,6 @@
 {
   "name": "ride-more-org",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
