@@ -15,8 +15,8 @@ Welcome to the **MORE Club Resource Center** - your comprehensive guide to off-r
 - **Safety Guidelines** - Essential safety practices and emergency procedures
 - **Trail Information** - Local trail systems, maps, and current conditions  
 - **Riding Styles Guide** - Comprehensive guide to different motorcycle types and riding styles
-- **Community Resources** - Connect with fellow riders and join group rides
-
+- **Community Resources** - Connect with fellow riders and join group rides 
+ 
 ## 🚀 Quick Start for Contributors
 
 ### Prerequisites
