@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Club Resources
 
+> **🚧 Founding Phase:** We're actively building these resources together! As a founding member, you can help shape what information and guides would be most valuable. Join our Discord community to contribute ideas and help develop the content you want to see.
+
 Welcome to the **MORE Club Resource Center**! Here you'll find essential information for safe and enjoyable off-road motorcycle adventures.
 
 ## What You'll Find Here

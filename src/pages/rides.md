@@ -1,6 +1,8 @@
 # Ride Reports & Adventures
 
-## Featured Rides
+> **🚧 Founding Phase:** We're actively building our ride calendar and trail database! These are example rides to show what we're planning. Join our [Discord community](/discord) to help plan our first rides, suggest trails you love, and shape our riding program. Your input as a founding member will directly influence what rides we organize and how we explore together.
+
+## Featured Rides (Planned Examples)
 
 ### Schwartz Creek Loop
 

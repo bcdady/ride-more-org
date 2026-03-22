@@ -4,6 +4,8 @@ title: Join Our Discord Community | MORE Club
 
 # Join the MORE Missoula Discord Community
 
+> **🚧 Founding Phase:** Our Discord community is where the MORE Club is actively building! Join us to connect with fellow riders, help plan our first rides and events, and be part of shaping what this club becomes. As a founding member, you'll have direct input into our community culture and programming.
+
 ## What is Discord?
 
 Discord is a free communication platform that offers text chat channels and other community collaboration features. Think of it as a modern forum mixed with instant messaging - perfect for our riding community to stay connected between rides!
@@ -47,6 +49,8 @@ Discord is a free communication platform that offers text chat channels and othe
 ## Server Channels Overview
 
 Our MORE Missoula Discord is organized into different channels for different purposes:
+
+**Note:** As we're in our founding phase, our channel structure may evolve based on member needs and feedback. We'll adjust channels as we learn what works best for our community.
 
 ### 📢 Information Channels
 

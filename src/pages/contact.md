@@ -20,10 +20,10 @@ Whether you're interested in joining the club, have questions about upcoming eve
 
 ### Monthly Club Meetings
 
-**When**: TBD  
-**Location**: TBD -- We're interested in feedback on preferred locations, including virtual options
+**When**: To be established based on founding member input  
+**Location**: To be determined collaboratively with founding members -- we welcome feedback on preferred locations, including virtual options
 
-**What we cover:**
+**What we'll cover:**
 
 - Upcoming rides and events
 - Club business and announcements  
@@ -57,6 +57,6 @@ We value your input! [Contact us](mailto:more@ride-more.org?subject=MORE%20Club%
 - Partnership opportunities
 - General club feedback
 
-**Response Time**: We typically respond to emails within 2-3 business days. For urgent matters, please indicate in your subject line.
+**Response Time**: We're a volunteer-run organization in our founding phase. We'll do our best to respond within 3-5 business days. Thank you for your patience as we build our community! For urgent matters, please indicate in your subject line.
 
 Thank you for visiting, and we look forward to connecting with you!
