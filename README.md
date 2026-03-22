@@ -17,119 +17,65 @@ Welcome to the **MORE Club Resource Center** - your comprehensive guide to off-r
 - **Trail Information** - Local trail systems, maps, and current conditions  
 - **Riding Styles Guide** - Comprehensive guide to different motorcycle types and riding styles
 - **Community Resources** - Connect with fellow riders and join group rides 
+
+## 📍 Current Organizational Status
+
+The MORE Club Resource Center is an active community project in its founding phase:
+
+✅ **Live Now:**
+- Comprehensive safety and trail resources
+- Community Discord for rider connection
+- Open-source contribution model
+- Professional documentation and website
+
+🚧 **In Development:**
+- Regular organized ride schedule
+- Formal membership structure
+- Partner benefit programs
+- Established event calendar
+
+**Want to be part of building this community?** We welcome founding members who want to help shape our club culture, event programming, and riding community. Your input and participation in this early stage will directly influence what the MORE Club becomes.
+
+[Join our Discord](https://ride-more.org/discord) | [Contact us](mailto:more@ride-more.org) to get involved
  
 ## 🚀 Quick Start for Contributors
 
-### Prerequisites
-
-This project uses [Yarn 4](https://yarnpkg.com/) for dependency management.
-
-- **Node.js 22+** (we test with Node.js 22.x to match our deployment environment)
-- **Yarn 4.13.0** (managed via Corepack, included with Node.js)
-- **Git** for version control
-
-### Installation
+Want to contribute? Great! Here's the fastest way to get started:
 
 ```bash
-# Clone the repository
-git clone https://github.com/bcdady/ride-more-org.git
+# Fork and clone the repository
+git clone https://github.com/YOUR_USERNAME/ride-more-org.git
 cd ride-more-org
 
-# Install dependencies
-yarn install
-
-# Enable Corepack if not already enabled
+# Install dependencies and start development server
 corepack enable
-```
-
-### Local Development
-
-```bash
-# Start development server
+yarn install
 yarn start
 ```
 
-This starts a local development server at `http://localhost:3000` with hot reloading. Most changes are reflected live without restarting the server.
+Your local site will be running at `http://localhost:3000` with hot reloading.
 
-### Building for Production
-
-```bash
-# Build static site
-yarn build
-
-# Serve locally to test
-yarn serve
-```
-
-### Code Quality & Testing
-
-```bash
-# Type checking
-yarn typecheck
-
-# Linting (if configured)
-yarn lint
-
-# Format code (if configured)
-yarn format
-```
+**📖 For complete details** including setup, workflows, guidelines, and DCO requirements, see **[CONTRIBUTING.md](CONTRIBUTING.md)**.
 
 ## 📝 Contributing
 
-We welcome contributions! Please follow these guidelines:
+We welcome contributions of all types - content, code, design, or ideas! Whether you're:
+- 📝 Improving safety documentation or trail information
+- 💻 Fixing bugs or adding features
+- 🎨 Enhancing design or user experience
+- 🐛 Reporting issues or suggesting improvements
 
-### 🔄 Development Workflow
+**Please read our [Contributing Guide](CONTRIBUTING.md)** for:
+- Development workflow and setup instructions
+- Content and code guidelines
+- Pull request process and DCO requirements
+- Community guidelines and getting help
 
-1. **Fork** the repository
-2. **Create a feature branch**: `git checkout -b feature/amazing-feature`
-3. **Make your changes** and test locally
-4. **Commit with DCO sign-off**: `git commit -s -m "feat: add amazing feature"`
-5. **Push** your branch: `git push origin feature/amazing-feature`
-6. **Create a Pull Request** with a clear description
-
-### ✅ Pull Request Requirements
-
-Our automated CI pipeline will check:
-
-- ✅ **Build success** - Your changes build without errors
-- ✅ **Code quality** - ESLint and Prettier formatting
-- ✅ **Security** - Dependency vulnerabilities and code security
-- ✅ **DCO compliance** - All commits must be signed off
-
-### 📁 Project Structure
-
-```
-ride-more-org/
-├── docs/                 # Main documentation content
-│   ├── intro.md         # Club resources overview
-│   ├── safety.md        # Safety guidelines
-│   ├── trails.md        # Trail information
-│   └── styles.md        # Motorcycle types & styles
-├── blog/                # Blog posts and updates
-├── src/                 # Custom React components
-├── static/              # Static assets (images, files)
-├── .github/             # GitHub workflows and automation
-└── docusaurus.config.js # Site configuration
-```
-
-### 🎨 Content Guidelines
-
-**Writing Style:**
-- Use clear, accessible language
-- Focus on safety and practical information
-- Include relevant examples and tips
-
-**Safety Content:**
-- Always emphasize safety first
-- Provide actionable, specific guidance
-- Include emergency procedures where relevant
-
-**Technical Content:**
-- Keep explanations beginner-friendly
-- Use bullet points for easy scanning
-- Include links to authoritative sources
+**Important:** All commits must be signed off with DCO using `git commit -s`
 
 ## 🛠️ Technical Details
+
+
 
 **Built With:**
 - [Docusaurus 3](https://docusaurus.io/) - Static site generator
@@ -154,6 +100,12 @@ ride-more-org/
 - **Discord:** [Join our community](/discord) for real-time discussions
 - **Issues:** [Report bugs or request features](https://github.com/bcdady/ride-more-org/issues)
 - **Email:** [more@ride-more.org](mailto:more@ride-more.org) for general inquiries
+
+### Community Guidelines
+
+- **[Code of Conduct](CODE_OF_CONDUCT.md)** - Our commitment to a safe, inclusive community
+- **[Contributing Guide](CONTRIBUTING.md)** - How to contribute content, code, or ideas
+- **[Governance](GOVERNANCE.md)** - How decisions are made and how to get involved
 
 ## 📄 License
 

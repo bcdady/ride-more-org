@@ -1,28 +1,38 @@
 # Membership
 
+> **🚧 Founding Phase:** We're in the early stages of building the MORE Club! As a founding member, you'll have a unique opportunity to shape what this club becomes. Rather than joining an established club with set programs, you'll help us build the ride calendar, establish our community culture, and create the activities and events that matter most to our members.
+
 ## Join the Adventure
 
 The Motorcycle Off-Road Explorers club welcomes riders of all skill levels who appreciate that we can go farther together. Whether you're just starting out or you're a seasoned veteran, there's a place for you in our community.
 
-## Community Membership Benefits
+## Founding Member Opportunities
 
-### 🏍️ **Group Rides & Events**
+As a founding member, you won't just receive benefits—you'll help **build** them! Here's what you can help create:
 
-- Access to organized rides and guided introductions to new trails
-- Annual adventure rally participation
-- Skills workshops and training sessions
-- Special events and social gatherings
-- Trail maintenance days and volunteer opportunities
-- Real-world gear recommendations and conversations
-- Ride buddy matching service
+### 🏍️ **Shape Our Ride Program**
 
+- **Plan our first group rides** - Suggest trails, help scout routes, and organize inaugural rides
+- **Design our event calendar** - What kinds of rides and events do you want to see?
+- **Develop skills workshops** - Share your expertise or help identify instructors
+- **Create social gatherings** - Help plan our first meetups and celebrations
+- **Establish trail maintenance traditions** - Build our community service culture from day one
+- **Build our trail database** - Document and share your favorite riding spots
 
-### 🤝 **Community**
+### 🤝 **Build Our Community Culture**
 
-- Monthly social meetups
-- Online forums and messaging
-- Mentorship program for new riders
-- Lifelong friendships and connections
+- **Define how we communicate** - Help set the tone in our Discord channels
+- **Create mentorship connections** - Be among the first to welcome new riders
+- **Establish club traditions** - What makes our club unique?
+- **Shape our values** - Help determine what matters most to us as a community
+- **Form lasting friendships** - Connect with the core group building this from scratch
+
+### 🎯 **Direct Input & Influence**
+
+- **Voice in decision-making** - Your ideas matter as we establish club structure
+- **Leadership opportunities** - Take on roles that interest you early on
+- **Set the standard** - Be part of the group that defines what MORE Club is all about
+- **Build something meaningful** - Don't just join a club—help create one
 
 
 ## Member Spotlights
