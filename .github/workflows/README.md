@@ -19,14 +19,14 @@ This directory contains GitHub Actions workflows for automated CI/CD, security s
 
 **Jobs:**
 
-- **Build & Test** - Single environment testing (Node.js 22.x, Bun 1.2.x)
+- **Build & Test** - Single environment testing (Node.js 22.x, Yarn 4.13.0)
 - **Lint & Format** - Code quality checks (ESLint, Prettier)
 - **Security Audit** - Dependency vulnerability scanning
 
 **Features:**
 
 - ✅ **Environment matching** - Tests with exact Cloudflare Pages versions
-- ✅ **Bun 1.2.x** and **Node.js 22.x** (compatible with Cloudflare Pages System v3)
+- ✅ **Yarn 4.13.0** and **Node.js 22.x** for dependency management
 - ✅ **Dependency caching** for faster builds
 - ✅ **Code quality enforcement** - ESLint and Prettier checks
 - ✅ **Essential validation** - Build verification and type checking
@@ -120,7 +120,7 @@ To add new validation steps to CI:
 To configure Cloudflare Pages deployment:
 
 1. **Connect repository** - Link GitHub repo to Cloudflare Pages
-2. **Configure build settings** - Set build command: `bun run build`
+2. **Configure build settings** - Set build command: `yarn build`
 3. **Set output directory** - Configure: `build`
 4. **Custom domain** - Add your domain in Cloudflare Pages dashboard
 5. **Environment variables** - Configure in Cloudflare Pages settings if needed
@@ -155,22 +155,22 @@ Security workflows are pre-configured for:
 **Build failures:**
 
 - Check Node.js version compatibility
-- Verify Bun lockfile is committed
+- Verify yarn.lock is committed
 - Review dependency compatibility
 
 **Security alerts:**
 
 - Check GitHub Security tab for details
 - Review automated issues for vulnerability details
-- Update dependencies with `bun update`
+- Update dependencies with `yarn up`
 - Review Dependabot PRs in the Pull Requests tab
 
 **Cloudflare Pages deployment issues:**
 
 - Check build logs in Cloudflare Pages dashboard
-- Verify build command is set to `bun run build`
+- Verify build command is set to `yarn build`
 - Ensure output directory is set to `build`
-- Test build locally with `bun run build`
+- Test build locally with `yarn build`
 
 **DCO failures:**
 
