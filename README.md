@@ -22,10 +22,10 @@ Welcome to the **MORE Club Resource Center** - your comprehensive guide to off-r
 
 ### Prerequisites
 
-This project uses [Bun](https://bun.sh/) for faster package management and builds.
+This project uses [Yarn 4](https://yarnpkg.com/) for dependency management.
 
 - **Node.js 22+** (we test with Node.js 22.x to match our deployment environment)
-- **Bun 1.2+** (recommended) or npm/yarn as fallback
+- **Yarn 4.13.0** (managed via Corepack, included with Node.js)
 - **Git** for version control
 
 ### Installation
@@ -36,22 +36,17 @@ git clone https://github.com/bcdady/ride-more-org.git
 cd ride-more-org
 
 # Install dependencies
-bun install
+yarn install
 
-# Or using npm/yarn
-npm install
-# yarn install
+# Enable Corepack if not already enabled
+corepack enable
 ```
 
 ### Local Development
 
 ```bash
 # Start development server
-bun start
-
-# Or using npm/yarn
-npm start
-# yarn start
+yarn start
 ```
 
 This starts a local development server at `http://localhost:3000` with hot reloading. Most changes are reflected live without restarting the server.
@@ -60,23 +55,23 @@ This starts a local development server at `http://localhost:3000` with hot reloa
 
 ```bash
 # Build static site
-bun run build
+yarn build
 
 # Serve locally to test
-bun run serve
+yarn serve
 ```
 
 ### Code Quality & Testing
 
 ```bash
 # Type checking
-bun run typecheck
+yarn typecheck
 
 # Linting (if configured)
-bun run lint
+yarn lint
 
 # Format code (if configured)
-bun run format
+yarn format
 ```
 
 ## 📝 Contributing
@@ -140,7 +135,7 @@ ride-more-org/
 - [Docusaurus 3](https://docusaurus.io/) - Static site generator
 - [React](https://reactjs.org/) - UI components
 - [TypeScript](https://www.typescriptlang.org/) - Type safety
-- [Bun](https://bun.sh/) - Fast package manager and runtime
+- [Yarn 4](https://yarnpkg.com/) - Fast, reliable dependency management
 
 **Deployment:**
 - **Hosting:** [Cloudflare Pages](https://pages.cloudflare.com/)
