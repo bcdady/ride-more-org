@@ -38,6 +38,8 @@ This project shares patterns with `bryandady.com`:
 <!-- AGENT_SYNC_END: shared-docusaurus-patterns -->
 
 ## Development Constraints & Conventions
+n- **Surgical Commits**: Only commit files directly related to the current task. Do not bundle pre-existing untracked files or unrelated modifications without explicit permission.
+- **Branching Strategy**: Use feature/draft branches for new features, scripts, or content. Direct commits to `main` should be reserved for minor configuration or documentation fixes.
 
 - **Blog Posts**:
   - Use `<!-- truncate -->` in blog posts to control post previews.
