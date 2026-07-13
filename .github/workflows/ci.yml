@@ -12,51 +12,22 @@ concurrency:
 
 jobs:
   build-and-test:
-    # ensure the project builds correctly for the same Node.js
-    # version as used in production
     name: Build and Test
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v6
-
-      - name: Setup Node.js 22
-        uses: actions/setup-node@v6
-        with:
-          node-version: '22'
-
-      - name: Enable Corepack
-        run: corepack enable
-
-      - name: Cache Yarn dependencies
-        uses: actions/cache@v5
-        with:
-          path: |
-            .yarn/cache
-            .yarn/unplugged
-          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-yarn-
-
-      - name: Verify Yarn version
-        run: |
-          yarn --version
-          echo "Expected: 4.13.0"
-          if [ "$(yarn --version)" != "4.13.0" ]; then
-            echo "ERROR: Yarn version mismatch!"
-            exit 1
-          fi
+      - uses: actions/checkout@v5
+      - uses: jdx/mise-action@v2
 
       - name: Install dependencies
-        run: yarn install --immutable
+        run: aube install --frozen
 
       - name: Run type checking
-        run: yarn typecheck
+        run: aube run typecheck
 
       - name: Build site
-        run: yarn build
+        run: aube run build
         env:
           NODE_ENV: production
 
@@ -66,64 +37,17 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v6
-
-      - name: Setup Node.js 22
-        uses: actions/setup-node@v6
-        with:
-          node-version: '22'
-
-      - name: Enable Corepack
-        run: corepack enable
-
-      - name: Cache Yarn dependencies
-        uses: actions/cache@v5
-        with:
-          path: |
-            .yarn/cache
-            .yarn/unplugged
-          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-yarn-
-
-      - name: Verify Yarn version
-        run: |
-          yarn --version
-          echo "Expected: 4.13.0"
-          if [ "$(yarn --version)" != "4.13.0" ]; then
-            echo "ERROR: Yarn version mismatch!"
-            exit 1
-          fi
+      - uses: actions/checkout@v5
+      - uses: jdx/mise-action@v2
 
       - name: Install dependencies
-        run: yarn install --immutable
+        run: aube install --frozen
 
       - name: Check Prettier formatting
-        run: |
-          if command -v prettier &> /dev/null || [ -f "node_modules/.bin/prettier" ]; then
-            echo "Checking code formatting with Prettier..."
-            yarn dlx prettier --check "**/*.{js,jsx,ts,tsx,md,json,yml,yaml}" || {
-              echo "❌ Code formatting issues found. Run 'yarn dlx prettier --write .' to fix."
-              exit 1
-            }
-            echo "✅ All files are properly formatted"
-          else
-            echo "⚠️  Prettier not configured - skipping format check"
-          fi
+        run: aube dlx prettier --check "**/*.{js,jsx,ts,tsx,md,json,yml,yaml}"
 
       - name: Run ESLint
-        run: |
-          if [ -f ".eslintrc.js" ] || [ -f ".eslintrc.json" ] || [ -f "eslint.config.js" ] || [ -f "node_modules/.bin/eslint" ]; then
-            echo "Running ESLint..."
-            yarn dlx eslint . --ext .js,.jsx,.ts,.tsx || {
-              echo "❌ ESLint issues found. Run 'yarn dlx eslint . --fix' to fix auto-fixable issues."
-              exit 1
-            }
-            echo "✅ No ESLint issues found"
-          else
-            echo "⚠️  ESLint not configured - skipping lint check"
-          fi
+        run: aube dlx eslint . --ext .js,.jsx,.ts,.tsx
 
   security-audit:
     name: Security Audit
@@ -131,55 +55,11 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v6
-
-      - name: Setup Node.js 22
-        uses: actions/setup-node@v6
-        with:
-          node-version: '22'
-
-      - name: Enable Corepack
-        run: corepack enable
-
-      - name: Cache Yarn dependencies
-        uses: actions/cache@v5
-        with:
-          path: |
-            .yarn/cache
-            .yarn/unplugged
-          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-yarn-
-
-      - name: Verify Yarn version
-        run: |
-          yarn --version
-          echo "Expected: 4.13.0"
-          if [ "$(yarn --version)" != "4.13.0" ]; then
-            echo "ERROR: Yarn version mismatch!"
-            exit 1
-          fi
+      - uses: actions/checkout@v5
+      - uses: jdx/mise-action@v2
 
       - name: Install dependencies
-        run: yarn install --immutable
+        run: aube install --frozen
 
-npm warn config production Use `--omit=dev` instead.
-
-      - name: Run security audit on production dependencies
-        run: |
-          echo "Running security audit on production dependencies..."
-          echo "⚠️  Only production dependencies will cause failures."
-          echo ""
-
-          # Check production dependencies only (fail on moderate+)
-          if yarn npm audit --environment production --severity moderate; then
-            echo "✅ No vulnerabilities in production dependencies"
-          else
-            echo "❌ Found vulnerabilities in production dependencies"
-            exit 1
-          fi
-
-          echo ""
-          echo "Checking all dependencies for informational purposes..."
-          yarn npm audit --severity moderate || echo "⚠️  Found vulnerabilities in dev dependencies (non-blocking)"
+      - name: Run aube security audit
+        run: aube audit --prod --audit-level moderate
