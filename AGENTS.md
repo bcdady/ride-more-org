@@ -10,6 +10,7 @@ This file provides high-signal context for agents working on the `ride-more-org`
 - **Production Build**: `aube run build` (generates static files in `build/`)
 - **Type Checking**: `aube run typecheck` (runs `tsc`).
 - **Security Audit**: `aube audit`.
+- **Cloudflare Pages Build**: Cloudflare's build image does not support `aube` (only npm, pnpm, Yarn, and Bun are preinstalled). The Cloudflare Pages project is configured to use `pnpm install --frozen-lockfile` and `pnpm run build` instead, backed by a separately committed `pnpm-lock.yaml`. Regenerate it after any dependency change with `npm_config_package_manager_strict=false pnpm install --lockfile-only` and commit the result alongside `aube-lock.yaml`.
 
 ## Project Structure
 
