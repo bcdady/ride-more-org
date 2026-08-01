@@ -1,10 +1,11 @@
 # Used only when Cloudflare Pages builds this project with pnpm directly
 # (aube isn't available there). See AGENTS.md and .npmrc for context.
 #
-# pnpm >=11 no longer reads general settings from .npmrc or overrides from
-# package.json's `pnpm` field, so both are duplicated here to keep the
-# Cloudflare build working regardless of which pnpm major version Cloudflare
-# has preinstalled.
+# pmOnFail is the pnpm >=11 successor to .npmrc's package-manager-strict;
+# both are defensive no-ops kept in case a `packageManager` field is
+# reintroduced. pnpm >=11 also stops reading overrides from package.json's
+# `pnpm` field, so they are duplicated here to keep the Cloudflare build
+# working regardless of which pnpm major version Cloudflare has preinstalled.
 pmOnFail: warn
 
 overrides:
