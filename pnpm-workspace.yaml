@@ -1,0 +1,16 @@
+# Used only when Cloudflare Pages builds this project with pnpm directly
+# (aube isn't available there). See AGENTS.md and .npmrc for context.
+#
+# pmOnFail is the pnpm >=11 successor to .npmrc's package-manager-strict;
+# both are defensive no-ops kept in case a `packageManager` field is
+# reintroduced. pnpm >=11 also stops reading overrides from package.json's
+# `pnpm` field, so they are duplicated here to keep the Cloudflare build
+# working regardless of which pnpm major version Cloudflare has preinstalled.
+pmOnFail: warn
+
+overrides:
+  serialize-javascript: ^7.0.5
+  uuid: ^11.1.1
+  brace-expansion: ^5.0.9
+  fast-uri: ^4.1.2
+  postcss: ^8.5.25

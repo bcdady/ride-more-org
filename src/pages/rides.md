@@ -6,24 +6,24 @@
 
 ### Schwartz Creek Loop
 
-*Date: Coming Soon*  
-*Difficulty: Beginner to Intermediate*  
-*Distance: 45 miles*
+_Date: Coming Soon_  
+_Difficulty: Beginner to Intermediate_  
+_Distance: 45 miles_
 
 Join us for an unforgettable mountain adventure through scenic alpine trails. This ride features breathtaking views, challenging climbs, and thrilling descents through pristine wilderness areas.
 
 **Highlights:**
 
 - Panoramic mountain vistas
-- Technical single-track sections  
+- Technical single-track sections
 - Creek crossings
 - Wildlife viewing opportunities
 
 ### Elk Meadows
 
-*Date: Coming Soon*  
-*Difficulty: Beginner to Advanced*  
-*Distance: Various routes 15-60 miles*
+_Date: Coming Soon_  
+_Difficulty: Beginner to Advanced_  
+_Distance: Various routes 15-60 miles_
 
 Discover the beauty of varied terrain with our explorer series. Multiple route options ensure riders of all skill levels can participate and enjoy the unique challenges this area offers.
 
@@ -62,7 +62,7 @@ Discover the beauty of varied terrain with our explorer series. Multiple route o
 
 ## Popular Trail Systems
 
-*Note: These are examples as we build the site. These will be replaced with actual local trails soon.*
+_Note: These are examples as we build the site. These will be replaced with actual local trails soon._
 
 ### Local Favorites
 

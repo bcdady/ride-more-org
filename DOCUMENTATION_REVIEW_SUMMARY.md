@@ -22,9 +22,11 @@ Conducted comprehensive review of all public-facing documentation for the MORE C
 ### Phase 1: Immediate Transparency Updates
 
 #### 1. About Page (`src/pages/about.md`)
+
 **Changes:**
+
 - Added founding phase notice banner at top
-- Changed "What We Do" to "What We're Building" 
+- Changed "What We Do" to "What We're Building"
 - Updated all present-tense claims to future/planning language
 - Replaced "Membership Benefits" with "Founding Member Opportunities"
 - Emphasized opportunities to shape club rather than consume services
@@ -33,7 +35,9 @@ Conducted comprehensive review of all public-facing documentation for the MORE C
 **Impact:** Sets realistic expectations while positioning founding membership as valuable opportunity.
 
 #### 2. Events Page (`src/pages/events.md`)
+
 **Changes:**
+
 - Added prominent founding phase disclaimer
 - Changed "Every 2nd Saturday" to "Planned for every 2nd Saturday once launched"
 - Updated all event descriptions to planning/future tense
@@ -43,7 +47,9 @@ Conducted comprehensive review of all public-facing documentation for the MORE C
 **Impact:** Prevents disappointment when people expect scheduled events that don't exist yet.
 
 #### 3. Contact Page (`src/pages/contact.md`)
+
 **Changes:**
+
 - Updated response time from "2-3 business days" to "3-5 business days"
 - Added "volunteer-run organization in founding phase" context
 - Changed "TBD" meeting info to "To be established based on founding member input"
@@ -52,7 +58,9 @@ Conducted comprehensive review of all public-facing documentation for the MORE C
 **Impact:** Sets realistic expectations for volunteer response times and involvement.
 
 #### 4. Main README (`README.md`)
+
 **Changes:**
+
 - Added new "Current Organizational Status" section
 - Clearly separated "Live Now" vs "In Development" features
 - Added founding member invitation with clear value proposition
@@ -61,7 +69,9 @@ Conducted comprehensive review of all public-facing documentation for the MORE C
 **Impact:** Immediately transparent to anyone visiting the GitHub repository.
 
 #### 5. Documentation Intro (`docs/intro.md`)
+
 **Changes:**
+
 - Added founding phase notice
 - Updated "Join a Beginner Ride" to "Connect with the community"
 - Shifted language from established club to building community
@@ -70,7 +80,9 @@ Conducted comprehensive review of all public-facing documentation for the MORE C
 **Impact:** Aligns documentation section with realistic status.
 
 #### 6. Discord Page (`src/pages/discord.md`)
+
 **Changes:**
+
 - Added founding phase context emphasizing Discord as primary collaboration space
 - Noted channel structure may evolve
 - Positioned Discord as where founding members shape the club
@@ -78,7 +90,9 @@ Conducted comprehensive review of all public-facing documentation for the MORE C
 **Impact:** Positions Discord appropriately as the active hub during founding phase.
 
 #### 7. Rides Page (`src/pages/rides.md`)
+
 **Changes:**
+
 - Added founding phase notice
 - Labeled featured rides as "Planned Examples"
 - Asked for community input on ride planning and leading
@@ -88,7 +102,9 @@ Conducted comprehensive review of all public-facing documentation for the MORE C
 **Impact:** Honest about lack of scheduled rides while inviting participation.
 
 #### 8. Membership Page (`src/pages/members.md`)
+
 **Changes:**
+
 - Complete reframe as "Founding Member Opportunities"
 - Listed what members will help BUILD rather than RECEIVE
 - Separated current opportunities from future benefits
@@ -100,7 +116,9 @@ Conducted comprehensive review of all public-facing documentation for the MORE C
 ### Phase 2: Essential Governance Documents Created
 
 #### 9. Code of Conduct (`CODE_OF_CONDUCT.md`) - NEW FILE
+
 **Created comprehensive CoC including:**
+
 - Expected behavior on trails and in community
 - Safety-specific standards
 - Environmental responsibilities
@@ -112,7 +130,9 @@ Conducted comprehensive review of all public-facing documentation for the MORE C
 **Importance:** Essential for community safety and legal protection.
 
 #### 10. Contributing Guide (`CONTRIBUTING.md`) - NEW FILE
+
 **Created detailed guide covering:**
+
 - Ways to contribute (content, code, design, issues)
 - Development workflow and setup
 - Content guidelines with safety standards
@@ -125,7 +145,9 @@ Conducted comprehensive review of all public-facing documentation for the MORE C
 **Importance:** Referenced in README but didn't exist. Critical for open-source project.
 
 #### 11. Governance Document (`GOVERNANCE.md`) - NEW FILE
+
 **Established governance framework:**
+
 - Clear founding phase structure and timeline
 - Decision-making processes for different types of decisions
 - Roles and responsibilities (maintainers, founding members, contributors)
@@ -137,7 +159,9 @@ Conducted comprehensive review of all public-facing documentation for the MORE C
 **Importance:** Answers "how do we make decisions?" - critical for community trust.
 
 #### 12. Waiver Template (`WAIVER_TEMPLATE.md`) - NEW FILE
+
 **Created liability waiver template with:**
+
 - Prominent legal disclaimer requiring attorney review
 - Comprehensive assumption of risk language
 - Release of liability clauses
@@ -151,9 +175,11 @@ Conducted comprehensive review of all public-facing documentation for the MORE C
 ### Phase 3: Documentation Integration
 
 #### 13. README Community Section Update
+
 **Added links to:**
+
 - Code of Conduct
-- Contributing Guide  
+- Contributing Guide
 - Governance Document
 
 **Impact:** Makes governance transparent and accessible.
@@ -161,6 +187,7 @@ Conducted comprehensive review of all public-facing documentation for the MORE C
 ## Key Messaging Changes
 
 ### Before: Overpromising Language
+
 - "We organize regular group rides..."
 - "We host workshops..."
 - "Access to club rides and events"
@@ -170,6 +197,7 @@ Conducted comprehensive review of all public-facing documentation for the MORE C
 - "Response time: 2-3 business days"
 
 ### After: Realistic & Invitational Language
+
 - "We're establishing regular group rides..."
 - "We're planning workshops..."
 - "Help organize our first rides and events"
@@ -181,6 +209,7 @@ Conducted comprehensive review of all public-facing documentation for the MORE C
 ## What Was NOT Changed
 
 ### Strengths Preserved
+
 - ✅ Comprehensive safety guidelines (excellent quality)
 - ✅ Professional technical infrastructure
 - ✅ Open-source contribution model
@@ -192,24 +221,29 @@ Conducted comprehensive review of all public-facing documentation for the MORE C
 ## Impact Assessment
 
 ### Risk Mitigation
+
 - **Before:** High risk of member disappointment and reputation damage
 - **After:** Transparent, builds trust, positions founding membership as valuable
 
 ### Community Building
+
 - **Before:** Passive consumption model ("join us and receive benefits")
 - **After:** Active participation model ("help us build this together")
 
 ### Legal Protection
+
 - **Before:** Missing critical governance documents
 - **After:** Code of Conduct, governance, and waiver template in place
 
 ### Sustainability
+
 - **Before:** Unsustainable response time commitments for volunteers
 - **After:** Realistic expectations aligned with volunteer capacity
 
 ## Recommendations for Next Steps
 
 ### Immediate (Next 2 Weeks)
+
 1. ✅ Review all changes and approve
 2. ⏳ Have attorney review waiver template for Montana-specific requirements
 3. ⏳ Set up actual Discord server (referenced but may not exist)
@@ -217,6 +251,7 @@ Conducted comprehensive review of all public-facing documentation for the MORE C
 5. ⏳ Establish initial founding member group (even if just 2-3 people)
 
 ### Short-term (Next Month)
+
 6. Draft first newsletter/update for founding members
 7. Host first virtual or in-person founding member meetup
 8. Begin documenting actual local trails in Missoula area
@@ -224,6 +259,7 @@ Conducted comprehensive review of all public-facing documentation for the MORE C
 10. Establish clear criteria for "transition from founding phase"
 
 ### Medium-term (Next 3-6 Months)
+
 11. Launch regular ride schedule (even if monthly to start)
 12. Establish at least one partnership for member benefits
 13. Conduct first skills workshop or trail maintenance day
@@ -231,6 +267,7 @@ Conducted comprehensive review of all public-facing documentation for the MORE C
 15. Document lessons learned and update processes
 
 ### Long-term (6-12 Months)
+
 16. Evaluate readiness to transition from founding phase
 17. Decide on formal membership structure and any fees
 18. Consider 501(c)(7) or other legal structure
@@ -240,6 +277,7 @@ Conducted comprehensive review of all public-facing documentation for the MORE C
 ## Transparency Metrics
 
 To maintain trust, consider tracking:
+
 - Number of founding members actively participating
 - Events/rides actually conducted vs. planned
 - Response time to inquiries (track actual vs. promised)
@@ -249,12 +287,14 @@ To maintain trust, consider tracking:
 ## Legal Considerations
 
 ### Completed
+
 - ✅ Code of Conduct established
 - ✅ Liability waiver template created
 - ✅ Governance structure documented
 - ✅ Contributing guidelines with DCO
 
 ### Still Needed
+
 - ⏳ Legal review of waiver by Montana attorney
 - ⏳ Decision on legal entity structure
 - ⏳ Insurance consultation for club activities
@@ -263,6 +303,7 @@ To maintain trust, consider tracking:
 ## Communication Strategy
 
 ### Tone Achieved
+
 - **Honest** about current status
 - **Enthusiastic** about opportunity
 - **Invitational** rather than transactional
@@ -270,6 +311,7 @@ To maintain trust, consider tracking:
 - **Realistic** in commitments
 
 ### Key Messages
+
 1. "We're in founding phase - be part of building something special"
 2. "Your input matters - founding members shape the club"
 3. "Safety first, always - this won't change"
@@ -279,6 +321,7 @@ To maintain trust, consider tracking:
 ## Conclusion
 
 The MORE Club documentation now appropriately balances:
+
 - ✅ Enthusiasm for the vision
 - ✅ Honesty about current status
 - ✅ Invitation to participate
@@ -293,6 +336,7 @@ The founding phase positioning transforms what could have been a weakness (lack 
 ## Approval & Next Steps
 
 **Recommended:** Review these changes, make any adjustments, and then:
+
 1. Commit to main branch
 2. Announce changes to any existing community members
 3. Begin actively recruiting founding members

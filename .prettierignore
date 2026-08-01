@@ -1,0 +1,5 @@
+build
+.docusaurus
+node_modules
+aube-lock.yaml
+pnpm-lock.yaml

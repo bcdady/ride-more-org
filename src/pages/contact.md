@@ -14,7 +14,7 @@ Whether you're interested in joining the club, have questions about upcoming eve
 
 📧 **[more@ride-more.org](mailto:more@ride-more.org?subject=MORE%20Club%20Inquiry)**
 
-*For all questions about membership, events, rides, safety, or general club information*
+_For all questions about membership, events, rides, safety, or general club information_
 
 ## Meeting Information
 
@@ -26,7 +26,7 @@ Whether you're interested in joining the club, have questions about upcoming eve
 **What we'll cover:**
 
 - Upcoming rides and events
-- Club business and announcements  
+- Club business and announcements
 - New member introductions
 - Trail condition reports
 - Social time and refreshments
@@ -37,14 +37,14 @@ All members and prospective members welcome!
 
 Stay connected with the MORE club community:
 
-- **Website**: [ride-more.org](https://ride-more.org)  
+- **Website**: [ride-more.org](https://ride-more.org)
 - **Discord**: Join our [MORE Discord server](/discord) for real-time chat, ride planning, and community discussions
 
 ## Directions to Common Meeting Spots
 
 ### Popular Ride Staging Areas
 
-*Detailed directions coming soon - check ride announcements for specific meeting locations*
+_Detailed directions coming soon - check ride announcements for specific meeting locations_
 
 ## Questions & Feedback
 

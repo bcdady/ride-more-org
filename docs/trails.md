@@ -7,11 +7,11 @@ title: Trail Information
 
 ## Local Trail Systems
 
-*Note: Specific trail information will be added as we develop our local riding knowledge. Current information is placeholder content for demonstration.*
+_Note: Specific trail information will be added as we develop our local riding knowledge. Current information is placeholder content for demonstration._
 
 ### Pine Ridge Trail Network
 
-**Location**: *Location TBD*  
+**Location**: _Location TBD_  
 **Difficulty**: Beginner to Intermediate  
 **Distance**: 30+ miles of interconnected trails  
 **Features**: Scenic forest riding, creek crossings, mountain views
@@ -19,16 +19,16 @@ title: Trail Information
 **Trail Highlights**:
 
 - Well-maintained fire roads suitable for beginners
-- Technical single-track sections for experienced riders  
+- Technical single-track sections for experienced riders
 - Multiple loop options from 5-20 miles
 - Seasonal wildflower displays
 - Wildlife viewing opportunities
 
-**Current Conditions**: *Check latest blog posts for updates*
+**Current Conditions**: _Check latest blog posts for updates_
 
 ### Boulder Creek Loop
 
-**Location**: *Location TBD*  
+**Location**: _Location TBD_  
 **Difficulty**: Intermediate  
 **Distance**: 18-mile circuit  
 **Features**: Creek crossings, rocky terrain, canyon views
@@ -47,9 +47,9 @@ title: Trail Information
 - Watch for loose rocks on descents
 - Permits may be required - check before riding
 
-### Desert Wash Route  
+### Desert Wash Route
 
-**Location**: *Location TBD*  
+**Location**: _Location TBD_  
 **Difficulty**: Beginner to Advanced (multiple routes)  
 **Distance**: 15-60 mile options  
 **Features**: Sand washes, desert flora, expansive views
@@ -66,7 +66,7 @@ title: Trail Information
 
 ### Mountain Peak Challenge
 
-**Location**: *Location TBD*  
+**Location**: _Location TBD_  
 **Difficulty**: Advanced  
 **Distance**: 12 miles to summit  
 **Features**: Steep climbs, technical terrain, panoramic views
@@ -87,12 +87,12 @@ title: Trail Information
 ### 🟢 Beginner (Green)
 
 - Wide, well-maintained trails
-- Gentle grades and turns  
+- Gentle grades and turns
 - Minimal obstacles
 - Good visibility
 - Suitable for new riders or first-time trail experiences
 
-### 🟡 Intermediate (Yellow)  
+### 🟡 Intermediate (Yellow)
 
 - Varied terrain including rocks, roots, and moderate climbs
 - Some technical sections requiring basic off-road skills
@@ -155,7 +155,7 @@ title: Trail Information
 **Cons**: Extreme heat, increased fire danger, crowded trails
 **Tips**: Start early, carry extra water, check fire restrictions
 
-### Fall Riding  
+### Fall Riding
 
 **Pros**: Perfect temperatures, beautiful colors, stable weather  
 **Cons**: Shorter days, hunting seasons, wet leaves
@@ -174,7 +174,7 @@ title: Trail Information
 Always check current conditions:
 
 - Weather forecast for riding area
-- Trail closure information  
+- Trail closure information
 - Fire restrictions and danger levels
 - Permit requirements
 - Seasonal hunting information
@@ -225,7 +225,7 @@ Always check current conditions:
 
 1. **Plan ahead and prepare**
 2. **Travel and camp on durable surfaces**
-3. **Dispose of waste properly**  
+3. **Dispose of waste properly**
 4. **Leave what you find**
 5. **Minimize campfire impacts**
 6. **Respect wildlife**
@@ -269,7 +269,7 @@ Have you discovered a great trail you'd like to share with the club? We'd love t
 
 - Trail location and access points
 - Distance and difficulty assessment
-- Special features or highlights  
+- Special features or highlights
 - Best season for riding
 - Any permits or restrictions
 - GPS coordinates if available
@@ -281,10 +281,10 @@ Have you discovered a great trail you'd like to share with the club? We'd love t
 The club participates in trail maintenance activities to give back to the riding community. Watch for announcements about:
 
 - Trail cleanup days
-- Trail building projects  
+- Trail building projects
 - Signage installation
 - Partnership opportunities with land managers
 
 ---
 
-*Trail information is constantly evolving. Check our [news blog](/blog) for the latest updates on trail conditions, new discoveries, and seasonal information.*
+_Trail information is constantly evolving. Check our [news blog](/blog) for the latest updates on trail conditions, new discoveries, and seasonal information._

@@ -2,7 +2,7 @@
 
 > **🚧 Founding Phase Notice:** The MORE Club is establishing its event calendar. The schedule below represents our planned programming as we build our community. Actual dates will be announced as we confirm ride leaders and participant interest. [Join our Discord](/discord) or [contact us](mailto:more@ride-more.org) for current activity updates and to help us launch our first official events!
 
-*Missoula, Montana Chapter*
+_Missoula, Montana Chapter_
 
 ## Weekly Club Rides (Seasonal)
 
@@ -14,7 +14,7 @@
 **Skill Level**: All levels welcome  
 **Description**: We're planning a day of trail exploration in the beautiful mountains surrounding Missoula! We'll discover new routes and enjoy the camaraderie of fellow riders. Routes will vary from beginner-friendly forest roads to challenging single-track trails in the Bitterroot and Cabinet Mountains.
 
-### Sunday Skills Workshop  
+### Sunday Skills Workshop
 
 **When**: Planned for every 3rd Sunday (May - September) once launched  
 **Time**: 10:00 AM - 2:00 PM  
@@ -56,7 +56,7 @@
 
 ## Event Calendar
 
-*Calendar integration coming soon! For now, check our [news blog](/blog) for the latest event announcements and updates.*
+_Calendar integration coming soon! For now, check our [news blog](/blog) for the latest event announcements and updates._
 
 ## Want to Help Launch Our Events?
 

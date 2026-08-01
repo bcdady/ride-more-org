@@ -92,7 +92,7 @@ You can monitor workflow status in several ways:
 ### GitHub Interface
 
 - **Actions Tab** - View all workflow runs
-- **Security Tab** - CodeQL findings and alerts  
+- **Security Tab** - CodeQL findings and alerts
 - **Pull Requests** - Status checks and preview links
 - **Issues** - Automated security vulnerability reports
 
@@ -136,6 +136,7 @@ Dependabot is configured via `.github/dependabot.yml` with sensible defaults:
 5. **Major version protection** - Major updates blocked for critical dependencies
 
 To customize:
+
 - Edit `.github/dependabot.yml`
 - Modify update frequency, groupings, or ignored packages
 - Adjust assignees and reviewers as needed
@@ -187,6 +188,6 @@ Security workflows are pre-configured for:
 ### Getting Help
 
 - **Workflow logs** - Check Actions tab for detailed error messages
-- **Status checks** - Review failed checks on pull requests  
+- **Status checks** - Review failed checks on pull requests
 - **Security findings** - Review Security tab for vulnerability details
 - **Issues** - Automated issues provide context for security problems

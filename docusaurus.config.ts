@@ -1,13 +1,13 @@
-import { themes as prismThemes } from 'prism-react-renderer';
-import type { Config } from '@docusaurus/types';
-import type * as Preset from '@docusaurus/preset-classic';
+import { themes as prismThemes } from "prism-react-renderer";
+import type { Config } from "@docusaurus/types";
+import type * as Preset from "@docusaurus/preset-classic";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Motorcycle Off-Road Explorers',
-  tagline: 'MORE adventure awaits on the next ride',
-  favicon: 'img/favicon.ico',
+  title: "Motorcycle Off-Road Explorers",
+  tagline: "MORE adventure awaits on the next ride",
+  favicon: "img/favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -15,49 +15,54 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://ride-more.org',
+  url: "https://ride-more.org",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/",
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: "throw",
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: "throw",
+    },
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       {
         docs: {
-          sidebarPath: './sidebars.ts',
+          sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/bcdady/ride-more-org/tree/main/',
+          editUrl: "https://github.com/bcdady/ride-more-org/tree/main/",
         },
         blog: {
           showReadingTime: true,
-          blogTitle: 'Club News & Ride Reports',
+          blogTitle: "Club News & Ride Reports",
           blogDescription:
-            'Latest updates, announcements, and adventure stories from the Motorcycle Off-Road Explorers club',
+            "Latest updates, announcements, and adventure stories from the Motorcycle Off-Road Explorers club",
           postsPerPage: 5,
           feedOptions: {
-            type: ['rss', 'atom'],
+            type: ["rss", "atom"],
             xslt: true,
           },
           // Remove editUrl for now - can add later if you want GitHub editing
           // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
+          onInlineTags: "warn",
+          onInlineAuthors: "warn",
+          onUntruncatedBlogPosts: "warn",
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
       } satisfies Preset.Options,
     ],
@@ -65,83 +70,83 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: "img/docusaurus-social-card.jpg",
     colorMode: {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'MORE Club',
+      title: "MORE Club",
       logo: {
-        alt: 'MORE Club Logo',
-        src: 'img/more-logo.png',
+        alt: "MORE Club Logo",
+        src: "img/more-logo.png",
       },
       items: [
-        { to: '/about', label: 'About', position: 'left' },
-        { to: '/events', label: 'Events', position: 'left' },
-        { to: '/rides', label: 'Rides', position: 'left' },
-        { to: '/members', label: 'Members', position: 'left' },
+        { to: "/about", label: "About", position: "left" },
+        { to: "/events", label: "Events", position: "left" },
+        { to: "/rides", label: "Rides", position: "left" },
+        { to: "/members", label: "Members", position: "left" },
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Resources',
+          type: "docSidebar",
+          sidebarId: "tutorialSidebar",
+          position: "left",
+          label: "Resources",
         },
-        { to: '/blog', label: 'News', position: 'left' },
-        { to: '/discord', label: 'Discord', position: 'left' },
-        { to: '/contact', label: 'Contact', position: 'right' },
+        { to: "/blog", label: "News", position: "left" },
+        { to: "/discord", label: "Discord", position: "left" },
+        { to: "/contact", label: "Contact", position: "right" },
       ],
     },
     footer: {
-      style: 'dark',
+      style: "dark",
       links: [
         {
-          title: 'Club Info',
+          title: "Club Info",
           items: [
             {
-              label: 'About MORE',
-              to: '/about',
+              label: "About MORE",
+              to: "/about",
             },
             {
-              label: 'Membership',
-              to: '/members',
+              label: "Membership",
+              to: "/members",
             },
             {
-              label: 'Safety Guidelines',
-              to: '/docs/safety',
+              label: "Safety Guidelines",
+              to: "/docs/safety",
             },
           ],
         },
         {
-          title: 'Activities',
+          title: "Activities",
           items: [
             {
-              label: 'Upcoming Events',
-              to: '/events',
+              label: "Upcoming Events",
+              to: "/events",
             },
             {
-              label: 'Ride Reports',
-              to: '/rides',
+              label: "Ride Reports",
+              to: "/rides",
             },
             {
-              label: 'Trail Maps',
-              to: '/docs/trails',
+              label: "Trail Maps",
+              to: "/docs/trails",
             },
           ],
         },
         {
-          title: 'Connect',
+          title: "Connect",
           items: [
             {
-              label: 'Contact Us',
-              to: '/contact',
+              label: "Contact Us",
+              to: "/contact",
             },
             {
-              label: 'Discord Community',
-              to: '/discord',
+              label: "Discord Community",
+              to: "/discord",
             },
             {
-              label: 'News & Updates',
-              to: '/blog',
+              label: "News & Updates",
+              to: "/blog",
             },
           ],
         },

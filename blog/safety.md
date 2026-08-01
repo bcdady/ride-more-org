@@ -10,7 +10,7 @@ tags: [safety, maintenance]
 
 Before you fire up your bike and head out on an adventure, take a few minutes to run through this essential safety checklist. A few minutes of preparation can prevent hours of trouble on the trail!
 
-<!-- truncate -->
+{/* truncate */}
 
 ## The Motorcycle Safety Check (T-CLOCS)
 
@@ -31,13 +31,13 @@ For the history of T-CLOCS, from the [Motorcycle Safety Foundation](https://www.
 ### T - Tires and Wheels
 
 - **Tire Pressure**: Check both front and rear tire pressure when cold
-- **Tread Depth**: Look for adequate tread and no excessive wear patterns  
+- **Tread Depth**: Look for adequate tread and no excessive wear patterns
 - **Sidewall Damage**: Inspect for cuts, cracks, or embedded objects
 - **Wheel Condition**: Check for bent or damaged rims, loose spokes
 
 **Pro Tip**: Lower tire pressure slightly for better traction in sand and soft terrain, but don't go below manufacturer minimums.
 
-### C - Controls  
+### C - Controls
 
 - **Throttle**: Should snap back quickly and smoothly
 - **Clutch**: Check lever action and engagement point
@@ -61,7 +61,7 @@ For the history of T-CLOCS, from the [Motorcycle Safety Foundation](https://www.
 ### C - Chain and Drive
 
 - **Chain Tension**: Check proper slack (usually 1.5-2 inches)
-- **Chain Wear**: Look for stretched or damaged links  
+- **Chain Wear**: Look for stretched or damaged links
 - **Sprocket Condition**: Check for hooked or worn teeth
 - **Chain Alignment**: Ensure proper sprocket alignment
 
@@ -134,7 +134,7 @@ When riding with others:
 
 ## Red Flags - Don't Ride If
 
-- You feel unwell or overly fatigued  
+- You feel unwell or overly fatigued
 - Weather conditions are dangerous
 - Your bike has any safety-related issues
 - You don't have proper safety gear
@@ -146,7 +146,7 @@ The goal is to return home safely with great memories and stories to share. When
 
 ---
 
-*Have questions about safety gear or maintenance? Contact us at [more@ride-more.org](mailto:more@ride-more.org)*
+_Have questions about safety gear or maintenance? Contact us at [more@ride-more.org](mailto:more@ride-more.org)_
 
 📚 **For comprehensive safety information**, see our complete [Safety Guidelines](/docs/safety) covering emergency procedures, wildlife safety, and club policies.
 

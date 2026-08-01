@@ -10,7 +10,7 @@ tags: [news, events]
 
 I'm excited to announce the launch of the **Motorcycle Off-Road Explorers (MORE) Club** and our new community website! After years of riding solo and with various groups, I realized there was a need for a dedicated community focused on off-road motorcycle adventures in our area.
 
-<!-- truncate -->
+{/* truncate */}
 
 ## What is the M.O.R.E. Club?
 
@@ -50,12 +50,13 @@ Whether you're a seasoned off-road veteran or just getting started, there's a pl
 Keep an eye on this blog for:
 
 - Ride announcements and reports
-- Trail condition updates  
+- Trail condition updates
 - Safety tips and maintenance guides
 - Club news and member spotlights
 
 The adventure begins now - let's explore more together!
 
 ---
-*Bryan Dady*  
-*Club President & Founder*
+
+_Bryan Dady_  
+_Club President & Founder_

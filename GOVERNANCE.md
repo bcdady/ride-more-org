@@ -20,15 +20,18 @@ The MORE Club is currently in its **founding phase** (as of March 2026). During 
 ### Founding Phase Structure
 
 **Project Maintainer(s):**
+
 - Bryan Dady ([@bcdady](https://github.com/bcdady))
 - Current responsibilities: Infrastructure, website, safety content, community coordination
 
 **Founding Members:**
+
 - Early participants who help shape the club
 - Active contributors to content, events, or community building
 - Collaborative decision-making on club direction
 
 **Contributors:**
+
 - Anyone who submits content, code, or improvements
 - Recognized for their contributions
 - Input welcomed on all matters
@@ -42,7 +45,7 @@ As the community matures, we plan to establish:
    - Ride Coordinator
    - Safety Officer
    - Treasurer (if needed)
-   
+
 2. **Event Organizers**
    - Ride leaders
    - Workshop coordinators
@@ -62,12 +65,14 @@ As the community matures, we plan to establish:
 **Who Decides:** Project maintainers and technical contributors
 
 **Process:**
+
 - Proposed via GitHub Issues or Pull Requests
 - Discussion period (minimum 3-7 days for major changes)
 - Maintainer approval required for merging
 - Community input welcomed but not required
 
 **Examples:**
+
 - Framework updates (e.g., Docusaurus version)
 - CI/CD pipeline changes
 - Website architecture decisions
@@ -78,12 +83,14 @@ As the community matures, we plan to establish:
 **Who Decides:** Founding members and subject matter experts
 
 **Process:**
+
 - Proposed via GitHub Issues or Pull Requests
 - Review for accuracy and safety
 - Community feedback encouraged (3-5 days for major changes)
 - Final approval by maintainers or designated safety reviewers
 
 **Examples:**
+
 - Safety guideline updates
 - Trail information additions
 - Riding technique tutorials
@@ -94,12 +101,14 @@ As the community matures, we plan to establish:
 **Who Decides:** Consensus among active founding members
 
 **Process:**
+
 - Discussed via Discord, GitHub Discussions, or email
 - Minimum 7-day discussion period
 - Aim for consensus; simple majority if needed
 - Document decisions transparently
 
 **Examples:**
+
 - Event calendar and scheduling
 - Membership policies
 - Code of Conduct updates
@@ -111,11 +120,13 @@ As the community matures, we plan to establish:
 **Who Decides:** Project maintainers
 
 **Process:**
+
 - Made as needed for operational continuity
 - Communicated to community when relevant
 - Can be reviewed/reversed by community consensus
 
 **Examples:**
+
 - Email response handling
 - Routine website updates
 - Social media posts
@@ -132,6 +143,7 @@ During the founding phase, we operate on a **rough consensus** model:
 5. **Documentation:** Document significant decisions
 
 **"Rough consensus"** means:
+
 - Not everyone has to agree completely
 - Serious concerns must be addressed
 - The solution works for the vast majority
@@ -142,6 +154,7 @@ During the founding phase, we operate on a **rough consensus** model:
 ### Project Maintainers
 
 **Responsibilities:**
+
 - Maintain website infrastructure and codebase
 - Review and merge pull requests
 - Ensure code quality and security
@@ -150,6 +163,7 @@ During the founding phase, we operate on a **rough consensus** model:
 - Make tie-breaking decisions when needed
 
 **Accountability:**
+
 - Transparent decision-making
 - Responsive to community input
 - Follow Code of Conduct
@@ -158,18 +172,21 @@ During the founding phase, we operate on a **rough consensus** model:
 ### Founding Members
 
 **How to Become a Founding Member:**
+
 - Active participation during founding phase
 - Meaningful contributions to club development
 - Commitment to club values and Code of Conduct
 - Recognition by existing founding members
 
 **Responsibilities:**
+
 - Participate in community decisions
 - Contribute to club development (any form)
 - Welcome and mentor new members
 - Uphold club values and standards
 
 **Rights:**
+
 - Voice in major decisions
 - Recognition as founding contributor
 - Influence on club direction
@@ -177,11 +194,13 @@ During the founding phase, we operate on a **rough consensus** model:
 ### Contributors
 
 **Anyone Can Contribute:**
+
 - No formal membership required
 - Follow contribution guidelines
 - Abide by Code of Conduct
 
 **Contributions Valued:**
+
 - Code and technical improvements
 - Content and documentation
 - Safety expertise and reviews
@@ -195,12 +214,14 @@ During the founding phase, we operate on a **rough consensus** model:
 We commit to making decisions transparently:
 
 **Public Channels:**
+
 - GitHub Issues and Discussions for technical matters
 - Discord for community discussions
 - Email for sensitive matters (with summary shared when appropriate)
 - Blog posts for major announcements
 
 **Documentation:**
+
 - Significant decisions documented in GitHub
 - Meeting notes (when we have meetings) shared publicly
 - Annual summaries of major changes
@@ -208,12 +229,14 @@ We commit to making decisions transparently:
 ### Community Input
 
 **How to Provide Input:**
+
 1. **GitHub Issues:** For specific proposals or problems
 2. **GitHub Discussions:** For broader topics and ideas
 3. **Discord:** For real-time discussion and coordination
 4. **Email:** more@ride-more.org for any concerns
 
 **Response Expectations:**
+
 - Acknowledgment within 5-7 days
 - Substantive response within 2-3 weeks
 - Faster for time-sensitive matters
@@ -238,12 +261,14 @@ See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for enforcement process.
 When we transition from founding phase (estimated 6-12 months):
 
 **Triggers for Transition:**
+
 - Regular event schedule established
 - Core group of 10+ active members
 - Sustainable operational model
 - Clear community identity
 
 **Transition Process:**
+
 1. Community discussion about readiness
 2. Draft updated governance structure
 3. 30-day review and feedback period
@@ -255,16 +280,19 @@ When we transition from founding phase (estimated 6-12 months):
 Potential future structures we may adopt:
 
 **Option 1: Officer-Based Structure**
+
 - Elected or volunteer officers
 - Defined terms and responsibilities
 - Democratic decision-making
 
 **Option 2: Cooperative Model**
+
 - Member-owned and operated
 - One member, one vote
 - Formal membership dues and benefits
 
 **Option 3: Non-Profit Organization**
+
 - Formal 501(c)(7) or similar status
 - Board of directors
 - Bylaws and formal governance
@@ -277,11 +305,13 @@ Potential future structures we may adopt:
 ### Changing This Document
 
 **Minor Changes** (typos, clarifications, formatting):
+
 - Pull request by anyone
 - Reviewed by maintainers
 - Merged when ready
 
 **Major Changes** (structure, processes, roles):
+
 - Proposed via GitHub Issue or Discussion
 - Minimum 14-day discussion period
 - Consensus among founding members required
@@ -291,6 +321,7 @@ Potential future structures we may adopt:
 ### Version History
 
 Major changes will be tracked:
+
 - Version number
 - Date of change
 - Summary of modifications
