@@ -46,6 +46,7 @@ Before reviewing specific pages, remind yourself of these principles:
 ### Homepage / README.md
 
 **Reality Checks:**
+
 - ☐ Status section exists and is current
 - ☐ "Live Now" items are actually available
 - ☐ "In Development" items are actually being developed
@@ -54,11 +55,13 @@ Before reviewing specific pages, remind yourself of these principles:
 - ☐ Founding phase status is accurate
 
 **Red Flags:**
+
 - ☐ Claims about active programming that doesn't exist
 - ☐ Member counts that aren't verified
 - ☐ Features listed as live that aren't
 
 **Action if Issues Found:**
+
 - Update status section
 - Move items between "Live" and "In Development" as needed
 - Add realistic timelines if appropriate
@@ -68,6 +71,7 @@ Before reviewing specific pages, remind yourself of these principles:
 ### About Page
 
 **Reality Checks:**
+
 - ☐ Mission statement still accurate
 - ☐ "What We're Building" matches actual plans
 - ☐ Values section reflects actual community culture
@@ -75,11 +79,13 @@ Before reviewing specific pages, remind yourself of these principles:
 - ☐ Call-to-action is appropriate for current phase
 
 **Red Flags:**
+
 - ☐ Present tense for things that don't exist
 - ☐ Membership benefits listed that aren't available
 - ☐ Team/leadership structure that doesn't exist
 
 **Action if Issues Found:**
+
 - Update tense (present vs. future/planning)
 - Revise benefits to match reality or mark as planned
 - Update founding phase notice if transitioning
@@ -89,6 +95,7 @@ Before reviewing specific pages, remind yourself of these principles:
 ### Events Page
 
 **Reality Checks:**
+
 - ☐ Are there ACTUAL events scheduled? (with real dates)
 - ☐ If no events scheduled, does page say so honestly?
 - ☐ Event frequency claims match reality ("weekly" vs "planned weekly")
@@ -96,12 +103,14 @@ Before reviewing specific pages, remind yourself of these principles:
 - ☐ Registration process (if mentioned) actually works
 
 **Red Flags:**
+
 - ☐ "TBD" dates that have been TBD for months
 - ☐ Regular schedule claimed without actual scheduled events
 - ☐ Event types listed that no one is organizing
 - ☐ Past events not marked as past
 
 **Action if Issues Found:**
+
 - Remove or update "TBD" placeholders
 - Change to "planned programming" if no actual schedule
 - Archive past events or create "past events" section
@@ -112,6 +121,7 @@ Before reviewing specific pages, remind yourself of these principles:
 ### Contact Page
 
 **Reality Checks:**
+
 - ☐ Email address is monitored
 - ☐ Response time promise is realistic (test it!)
 - ☐ Meeting information is current or marked as TBD with context
@@ -119,12 +129,14 @@ Before reviewing specific pages, remind yourself of these principles:
 - ☐ Contact form (if exists) actually works
 
 **Red Flags:**
+
 - ☐ Response times that can't be met
 - ☐ Meeting schedule that doesn't exist
 - ☐ Multiple contact methods that aren't actually monitored
 - ☐ Office hours or availability that isn't realistic
 
 **Action if Issues Found:**
+
 - Test email response time over 2 weeks, adjust promise
 - Update meeting info to "establishing schedule based on member input"
 - Remove or mark as "planned" any contact methods not yet available
@@ -134,6 +146,7 @@ Before reviewing specific pages, remind yourself of these principles:
 ### Rides/Trail Information Pages
 
 **Reality Checks:**
+
 - ☐ Actual scheduled rides have real dates
 - ☐ Trail information is current and verified
 - ☐ Difficulty ratings are honest and consistent
@@ -141,12 +154,14 @@ Before reviewing specific pages, remind yourself of these principles:
 - ☐ Ride reports are from actual rides that happened
 
 **Red Flags:**
+
 - ☐ "Upcoming rides" with no actual dates
 - ☐ Trail conditions that haven't been verified recently
 - ☐ Claims about guided rides with no guides
 - ☐ Placeholder content presented as real
 
 **Action if Issues Found:**
+
 - Label examples as "planned rides" or "ride concepts"
 - Add dates to trail info ("last verified: [date]")
 - Create separate sections for "scheduled" vs "planned" rides
@@ -157,6 +172,7 @@ Before reviewing specific pages, remind yourself of these principles:
 ### Membership Page
 
 **Reality Checks:**
+
 - ☐ Membership benefits match what's actually provided
 - ☐ If no formal membership exists, does page say so?
 - ☐ Benefits requiring partnerships are actually available
@@ -164,12 +180,14 @@ Before reviewing specific pages, remind yourself of these principles:
 - ☐ Membership process (if described) works
 
 **Red Flags:**
+
 - ☐ Benefits listed that don't exist
 - ☐ "Member-only" resources that aren't built yet
 - ☐ Partnership discounts without actual partnerships
 - ☐ Membership fees mentioned without structure in place
 
 **Action if Issues Found:**
+
 - Change "benefits" to "founding member opportunities"
 - Separate "current" from "planned" benefits
 - Remove or mark as coming soon: unavailable resources
@@ -180,6 +198,7 @@ Before reviewing specific pages, remind yourself of these principles:
 ### Discord/Community Pages
 
 **Reality Checks:**
+
 - ☐ Discord server actually exists and invite works
 - ☐ Channels described actually exist in the server
 - ☐ Activity level accurately represented
@@ -187,12 +206,14 @@ Before reviewing specific pages, remind yourself of these principles:
 - ☐ Community guidelines are enforced
 
 **Red Flags:**
+
 - ☐ Describing vibrant community that doesn't exist
 - ☐ Channels listed that aren't created
 - ☐ Activity promises that aren't met
 - ☐ Support availability that isn't realistic
 
 **Action if Issues Found:**
+
 - Test Discord invite link
 - Update channel list to match actual server
 - Adjust language about community size/activity
@@ -205,6 +226,7 @@ Before reviewing specific pages, remind yourself of these principles:
 ### Safety Documentation
 
 **Reality Checks:**
+
 - ☐ Information is accurate and current
 - ☐ Emergency contacts work
 - ☐ Procedures are tested or vetted by experts
@@ -218,6 +240,7 @@ Before reviewing specific pages, remind yourself of these principles:
 ### Governance Documents
 
 **Reality Checks:**
+
 - ☐ Decision-making process matches actual practice
 - ☐ Roles described exist and are filled
 - ☐ Founding phase status is accurate
@@ -298,15 +321,18 @@ Run this quick check if you get negative feedback about documentation:
 ### Who Reviews Documentation?
 
 **Monthly Quick Scan:**
+
 - Project maintainer or designated person
 - 30 minutes to scan for obvious issues
 
 **Quarterly Full Audit:**
+
 - Project maintainer + 1-2 founding members
 - 2-4 hours for thorough review
 - Use full checklist
 
 **Annual Deep Review:**
+
 - All active leadership/maintainers
 - Consider external review by trusted advisor
 - Review all documentation including governance
@@ -316,8 +342,8 @@ Run this quick check if you get negative feedback about documentation:
 Keep a simple log of reviews:
 
 | Date | Reviewer | Type | Issues Found | Actions Taken |
-|------|----------|------|--------------|---------------|
-| | | | | |
+| ---- | -------- | ---- | ------------ | ------------- |
+|      |          |      |              |               |
 
 ---
 
@@ -346,6 +372,7 @@ Healthy documentation should result in:
 - ✅ Growing trust in the organization
 
 If you're seeing:
+
 - ❌ New members disappointed by what they find
 - ❌ Questions about "where are the rides/events mentioned?"
 - ❌ Confusion about organizational status
@@ -358,6 +385,7 @@ Then documentation needs immediate review and update.
 ## Remember
 
 **Good documentation is:**
+
 - ✅ Honest about current state
 - ✅ Clear about what's planned vs. available
 - ✅ Enthusiastic without overpromising
@@ -365,6 +393,7 @@ Then documentation needs immediate review and update.
 - ✅ Aligned with actual capacity
 
 **Bad documentation:**
+
 - ❌ Creates false expectations
 - ❌ Damages trust when reality doesn't match
 - ❌ Leads to disappointed community members

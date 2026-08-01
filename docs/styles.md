@@ -439,4 +439,4 @@ Not sure which bike might be right for you? Want to learn more about specific mo
 - **Check out our [safety guidelines](/docs/safety)** before hitting the trails
 - **Attend a group ride** to see different bikes in action
 
-*Remember: The best motorcycle is the one you'll actually ride. Start with what excites you, matches your skill level, and fits your budget - you can always upgrade later as your skills and interests develop!*
+_Remember: The best motorcycle is the one you'll actually ride. Start with what excites you, matches your skill level, and fits your budget - you can always upgrade later as your skills and interests develop!_

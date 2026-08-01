@@ -34,12 +34,11 @@ As a founding member, you won't just receive benefits—you'll help **build** th
 - **Set the standard** - Be part of the group that defines what MORE Club is all about
 - **Build something meaningful** - Don't just join a club—help create one
 
-
 ## Member Spotlights
 
 ### Featured Member: [Name]
 
-*Coming Soon - Member spotlight featuring riding stories, favorite trails, and what they love about the club*
+_Coming Soon - Member spotlight featuring riding stories, favorite trails, and what they love about the club_
 
 Want to be featured? [Contact us](mailto:more@ride-more.org?subject=Member%20Spotlight) to share your story!
 
@@ -49,7 +48,7 @@ As a member of MORE club, you agree to:
 
 - **Ride Safely**: Always prioritize safety for yourself and others
 - **Respect the Environment**: Follow Leave No Trace principles
-- **Support Fellow Members**: Help others and contribute to our community spirit  
+- **Support Fellow Members**: Help others and contribute to our community spirit
 - **Follow Laws**: Obey all local, state, and federal regulations
 - **Represent the Club**: Be a positive ambassador for MORE in the riding community
 - **Participate Actively**: Engage in club activities and volunteer when possible
@@ -58,7 +57,7 @@ As a member of MORE club, you agree to:
 
 ### Private Member Area
 
-*Coming Soon - Password-protected area with:*
+_Coming Soon - Password-protected area with:_
 
 - Member directory
 - Private forums

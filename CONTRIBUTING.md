@@ -62,26 +62,30 @@ The MORE Club is in its founding phase, which means your contributions have outs
 
 1. **Fork the repository** on GitHub
 2. **Clone your fork locally:**
+
    ```bash
    git clone https://github.com/YOUR_USERNAME/ride-more-org.git
    cd ride-more-org
    ```
 
 3. **Enable Corepack** (if not already enabled):
+
    ```bash
    corepack enable
    ```
 
 4. **Install dependencies:**
+
    ```bash
    yarn install
    ```
 
 5. **Start the development server:**
+
    ```bash
    yarn start
    ```
-   
+
    Your local site should now be running at `http://localhost:3000`
 
 6. **Configure git for DCO sign-offs:**
@@ -101,6 +105,7 @@ git checkout -b feature/your-feature-name
 ```
 
 **Branch Naming Conventions:**
+
 - `feature/description` - New features or content
 - `fix/description` - Bug fixes
 - `docs/description` - Documentation updates
@@ -157,18 +162,21 @@ git push origin feature/your-feature-name
 ### Writing Style
 
 **Tone:**
+
 - Friendly but professional
 - Encouraging without overpromising
 - Safety-conscious without being alarmist
 - Inclusive and welcoming to all skill levels
 
 **Language:**
+
 - Use clear, accessible language (8th-grade reading level)
 - Define technical terms when first used
 - Use active voice when possible
 - Keep sentences and paragraphs concise
 
 **Structure:**
+
 - Use descriptive headers and subheaders
 - Break content into scannable sections
 - Use bullet points for lists
@@ -207,7 +215,7 @@ We use standard Markdown with some Docusaurus extensions:
 ### Subsection (H3)
 
 **Bold text** for emphasis
-*Italic text* for terms
+_Italic text_ for terms
 `code` for technical terms
 [Link text](https://example.com)
 
@@ -234,16 +242,12 @@ We use standard Markdown with some Docusaurus extensions:
 
 ```tsx
 // Use functional components with hooks
-import React from 'react';
+import React from "react";
 
 export function ComponentName({ prop1, prop2 }) {
   // Component logic
-  
-  return (
-    <div>
-      {/* Component JSX */}
-    </div>
-  );
+
+  return <div>{/* Component JSX */}</div>;
 }
 ```
 
@@ -307,16 +311,19 @@ license document, but changing it is not allowed.
 ### How to Sign Your Commits
 
 **Automatic Sign-off:**
+
 ```bash
 git commit -s -m "Your commit message"
 ```
 
 This adds the following line to your commit message:
+
 ```
 Signed-off-by: Your Name <your.email@example.com>
 ```
 
 **Configure Git to Always Sign:**
+
 ```bash
 # You can create a git alias
 git config alias.ci 'commit -s'
@@ -327,6 +334,7 @@ git config alias.ci 'commit -s'
 **Signing Previous Commits:**
 
 If you forgot to sign off previous commits:
+
 ```bash
 # For the last commit
 git commit --amend -s
@@ -356,9 +364,11 @@ Our CI pipeline automatically checks that all commits are signed off. Pull reque
 
 ```markdown
 ## Description
+
 Brief description of what this PR does
 
 ## Type of Change
+
 - [ ] Bug fix
 - [ ] New feature
 - [ ] Content update
@@ -367,20 +377,25 @@ Brief description of what this PR does
 - [ ] Code refactoring
 
 ## Changes Made
+
 - Specific change 1
 - Specific change 2
 - Specific change 3
 
 ## Testing
+
 How you tested these changes
 
 ## Screenshots (if applicable)
+
 Add screenshots for visual changes
 
 ## Related Issues
+
 Closes #issue_number (if applicable)
 
 ## Checklist
+
 - [ ] My code follows the project's style guidelines
 - [ ] I have performed a self-review
 - [ ] I have commented my code where needed
@@ -400,6 +415,7 @@ Closes #issue_number (if applicable)
 ### Response Times
 
 As a volunteer-run project in founding phase:
+
 - Initial review: Within 5-7 days
 - Follow-up reviews: Within 3-5 days
 - We appreciate your patience!
@@ -409,18 +425,21 @@ As a volunteer-run project in founding phase:
 ### Communication
 
 **Be Kind and Respectful:**
+
 - Assume good intentions
 - Welcome newcomers warmly
 - Provide constructive feedback
 - Respect different perspectives
 
 **Be Clear and Concise:**
+
 - Use clear language
 - Stay on topic
 - Provide context for issues
 - Ask questions when unsure
 
 **Be Patient:**
+
 - Remember this is volunteer-run
 - Contributors have varying availability
 - Some changes take time to review
@@ -429,12 +448,14 @@ As a volunteer-run project in founding phase:
 ### Getting Help
 
 **Questions About Contributing?**
+
 - Check existing issues and PRs first
 - Read this guide thoroughly
 - Ask in GitHub Discussions
 - Email: more@ride-more.org
 
 **Technical Issues?**
+
 - Search existing issues
 - Provide detailed reproduction steps
 - Include error messages and logs
@@ -445,6 +466,7 @@ As a volunteer-run project in founding phase:
 ### Contributors
 
 All contributors are recognized in our community:
+
 - Listed in project contributors
 - Mentioned in release notes (for significant contributions)
 - Building reputation in open source

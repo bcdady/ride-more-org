@@ -1,7 +1,7 @@
 # MORE Club Liability Waiver Template
 
 > **⚠️ IMPORTANT LEGAL NOTICE**
-> 
+>
 > This is a TEMPLATE only and must be reviewed and customized by a qualified attorney licensed in your jurisdiction before use. Liability laws vary significantly by state and locality. This template is provided for informational purposes and does not constitute legal advice.
 >
 > Do NOT use this waiver without proper legal review and customization for your specific circumstances, location, and activities.
@@ -88,6 +88,7 @@ If yes, please describe: _________________________________
 I acknowledge and understand that participating in off-road motorcycle riding and related activities ("the Activity") involves inherent risks, dangers, and hazards, including but not limited to:
 
 ### Riding Risks
+
 - Loss of control of motorcycle
 - Collision with other riders, vehicles, or objects
 - Collision with terrain features (rocks, trees, obstacles)
@@ -97,6 +98,7 @@ I acknowledge and understand that participating in off-road motorcycle riding an
 - Inadequate or faulty equipment
 
 ### Environmental Risks
+
 - Extreme weather conditions (heat, cold, rain, wind)
 - Limited visibility conditions
 - Wildlife encounters
@@ -105,6 +107,7 @@ I acknowledge and understand that participating in off-road motorcycle riding an
 - Falling rocks, branches, or other natural hazards
 
 ### Physical Risks
+
 - Serious personal injury including death
 - Fractures, sprains, and broken bones
 - Head, neck, and spinal injuries
@@ -115,6 +118,7 @@ I acknowledge and understand that participating in off-road motorcycle riding an
 - Mental or emotional trauma
 
 ### Other Risks
+
 - Inadequate first aid or emergency response
 - Errors in judgment by ride leaders or other participants
 - Negligent first aid or rescue operations

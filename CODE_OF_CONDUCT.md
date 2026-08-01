@@ -13,6 +13,7 @@ We pledge to make participation in our club and community a harassment-free expe
 We expect all community members, including riders, contributors, and visitors, to:
 
 **On the Trails:**
+
 - Practice safe riding and follow all safety guidelines
 - Respect the skill levels and comfort zones of all riders
 - Support fellow riders, especially those in need of assistance
@@ -22,6 +23,7 @@ We expect all community members, including riders, contributors, and visitors, t
 - Maintain proper equipment and preparedness standards
 
 **In Community Interactions:**
+
 - Use welcoming and inclusive language
 - Be respectful of differing viewpoints and experiences
 - Accept constructive feedback gracefully
@@ -30,6 +32,7 @@ We expect all community members, including riders, contributors, and visitors, t
 - Share knowledge and mentor new riders
 
 **Safety First:**
+
 - Never pressure anyone to attempt terrain beyond their abilities
 - Speak up about safety concerns without fear of judgment
 - Follow the "no rider left behind" principle
@@ -41,6 +44,7 @@ We expect all community members, including riders, contributors, and visitors, t
 The following behaviors are considered unacceptable:
 
 **Harassment and Discrimination:**
+
 - Offensive comments related to gender, gender identity, sexual orientation, disability, physical appearance, body size, race, age, religion, or nationality
 - Deliberate intimidation, stalking, or following (online or in-person)
 - Unwelcome sexual attention or advances
@@ -48,6 +52,7 @@ The following behaviors are considered unacceptable:
 - Publishing others' private information without explicit permission
 
 **Safety Violations:**
+
 - Riding under the influence of alcohol or drugs
 - Reckless riding that endangers others
 - Deliberately leaving a rider behind or isolated
@@ -56,6 +61,7 @@ The following behaviors are considered unacceptable:
 - Operating unsafe or improperly maintained equipment after being informed of issues
 
 **Environmental Violations:**
+
 - Riding off designated trails without authorization
 - Damaging vegetation, wildlife habitat, or archaeological sites
 - Littering or improper waste disposal
@@ -63,6 +69,7 @@ The following behaviors are considered unacceptable:
 - Disturbing or harassing wildlife
 
 **Community Violations:**
+
 - Trolling, insulting, or derogatory comments
 - Personal or political attacks
 - Public or private harassment
@@ -89,6 +96,7 @@ If you experience or witness unacceptable behavior, or have any other concerns, 
 **Email:** more@ride-more.org (with subject line "Code of Conduct Issue")
 
 **What to Include:**
+
 - Your contact information
 - Names (or descriptions) of individuals involved
 - Description of the behavior and circumstances
@@ -112,21 +120,25 @@ All reports will be handled with discretion. We will protect the identity of rep
 Depending on the severity and circumstances, consequences may include:
 
 **First Violations (Minor):**
+
 - Private written warning
 - Mediation between parties
 - Temporary exclusion from specific activities
 
 **Serious or Repeated Violations:**
+
 - Temporary suspension from club activities (30-90 days)
 - Removal from online community spaces
 - Exclusion from club leadership or event organizing roles
 
 **Severe Violations:**
+
 - Permanent ban from all club activities and spaces
 - Notification to relevant authorities (for illegal activities)
 - Public statement about the situation (if necessary for community safety)
 
 **Immediate Actions:**
+
 - In cases of imminent danger or ongoing harassment, individuals may be immediately removed from an event or online space pending investigation
 - Ride leaders have authority to exclude anyone from a ride for safety violations
 
@@ -165,6 +177,7 @@ If you have questions about this Code of Conduct or need clarification on any po
 ## Attribution
 
 This Code of Conduct is adapted from:
+
 - [Contributor Covenant](https://www.contributor-covenant.org/), version 2.1
 - Best practices from outdoor recreation organizations
 - Principles from motorcycle safety organizations

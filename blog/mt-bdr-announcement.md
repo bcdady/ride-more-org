@@ -10,7 +10,7 @@ tags: [news, events, trails, bdr]
 
 Exciting news for adventure riders! **Backcountry Discovery Routes (BDR)** has officially announced that the **Montana BDR route** is being added to their collection of epic backcountry adventures. This marks another milestone in BDR's mission to create world-class adventure riding routes that showcase America's most stunning landscapes.
 
-<!-- truncate -->
+{/* truncate */}
 
 ## What This Means for Montana Adventure and Dual-sport Riders
 
@@ -23,7 +23,7 @@ See [ridebdr.com/mtbdr](https://ridebdr.com/mtbdr/) for more information, includ
 Montana offers some of the most diverse and spectacular riding terrain in North America:
 
 - **Glacier National Park Region**: Alpine meadows and pristine wilderness
-- **Continental Divide**: High-altitude mountain passes and stunning vistas  
+- **Continental Divide**: High-altitude mountain passes and stunning vistas
 - **Great Plains**: Rolling grasslands and big sky country
 - **Beartooth Highway Corridor**: Some of the most scenic mountain riding in the US
 - **Bob Marshall Wilderness Complex**: Remote backcountry access
@@ -86,7 +86,7 @@ This announcement is particularly exciting for our MORE (Motorcycle Off-Road Exp
 We're already discussing the possibility of organizing a **MORE Club Montana BDR expedition** for summer 2026. This would be an excellent opportunity for club members to:
 
 - Experience their first multi-day adventure riding expedition
-- Learn navigation and camping skills in a supportive group environment  
+- Learn navigation and camping skills in a supportive group environment
 - Explore some of the most beautiful terrain in North America
 
 ## Stay Updated
@@ -97,4 +97,4 @@ As more details about the Montana BDR route become available, we'll continue to 
 
 ---
 
-*Planning an epic adventure ride? Check out our [safety guidelines](/blog/safety) and consider joining one of our [local training rides](/rides) to prepare for bigger adventures ahead.*
+_Planning an epic adventure ride? Check out our [safety guidelines](/blog/safety) and consider joining one of our [local training rides](/rides) to prepare for bigger adventures ahead._

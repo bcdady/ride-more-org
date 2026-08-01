@@ -1,12 +1,12 @@
-name: 'CodeQL Security Scanning'
+name: "CodeQL Security Scanning"
 
 on:
   push:
-    branches: ['main']
+    branches: ["main"]
   pull_request:
-    branches: ['main']
+    branches: ["main"]
   schedule:
-    - cron: '30 1 * * 1'
+    - cron: "30 1 * * 1"
 
 jobs:
   node:
@@ -55,4 +55,4 @@ jobs:
       - name: Perform CodeQL Analysis
         uses: github/codeql-action/analyze@v4
         with:
-          category: '/language:${{matrix.language}}'
+          category: "/language:${{matrix.language}}"

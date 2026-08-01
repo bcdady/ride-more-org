@@ -33,7 +33,7 @@ updates:
       development-dependencies:
         patterns:
           - "@types/*"
-          - "*eslint*" 
+          - "*eslint*"
           - "*prettier*"
           - "*jest*"
           - "*test*"

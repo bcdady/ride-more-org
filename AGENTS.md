@@ -19,7 +19,7 @@ This file provides high-signal context for agents working on the `ride-more-org`
 - `docusaurus.config.ts`: Main configuration file. Note the `classic` preset is used for docs, blog, and theme handling.
 
 <!-- AGENT_SYNC_START: shared-docusaurus-patterns -->
-<!-- 
+<!--
   The following section is shared with bryandady.com.
   It is wrapped in HTML comments to keep AGENTS.md focused for humans
   while remaining high-signal for agents.
@@ -30,7 +30,7 @@ This file provides high-signal context for agents working on the `ride-more-org`
 This project shares patterns with `bryandady.com`:
 - **Framework**: Docusaurus 3 with TypeScript.
 - **Deployment**: Automatic deployment from GitHub to **Cloudflare Pages**.
-- **Broken Links**: 
+- **Broken Links**:
   - `onBrokenLinks` and `onBrokenMarkdownLinks` are both set to `'throw'` in `docusaurus.config.ts`. Every link must be valid for the build to pass.
 - **Docusaurus v4**: Both use `future: { v4: true }` in `docusaurus.config.ts` to prepare for the next major version.
 - **Modern Tooling**: Moving towards standardizing on `mise` for tool management and `aube` for package management.
@@ -38,12 +38,13 @@ This project shares patterns with `bryandady.com`:
 <!-- AGENT_SYNC_END: shared-docusaurus-patterns -->
 
 ## Development Constraints & Conventions
+
 - **Connectivity**: VPN reconnection uses SAML and will open a browser tab for authentication. If a network-dependent command (like `aube install` or `gh` commands) hangs unexpectedly, verify the VPN status and check for open browser tabs.
-n- **Surgical Commits**: Only commit files directly related to the current task. Do not bundle pre-existing untracked files or unrelated modifications without explicit permission.
+  n- **Surgical Commits**: Only commit files directly related to the current task. Do not bundle pre-existing untracked files or unrelated modifications without explicit permission.
 - **Branching Strategy**: Use feature/draft branches for new features, scripts, or content. Direct commits to `main` should be reserved for minor configuration or documentation fixes.
 
 - **Blog Posts**:
-  - Use `<!-- truncate -->` in blog posts to control post previews.
+  - Use `{/* truncate */}` in blog posts to control post previews. (The legacy `<!-- truncate -->` HTML comment is no longer parsed once `future.v4` is enabled.)
   - Blog tags should ideally be defined in `tags.yml` (if in use) to avoid warnings.
 - **Git Tracking**: Ensure new blog files are added to Git to allow Docusaurus to retrieve file history for "edit this page" and last-update metadata.
 

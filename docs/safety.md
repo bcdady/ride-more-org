@@ -43,7 +43,7 @@ Off-road motorcycle riding involves inherent risks. Following these safety guide
 ### Recommended Upgrades
 
 - Chest/back protector
-- Knee and elbow guards  
+- Knee and elbow guards
 - Heavy-duty riding pants with padding
 - Riding jersey with ventilation
 - High-visibility colors
@@ -221,4 +221,4 @@ The most important safety rule is knowing when not to proceed:
 
 ---
 
-*Questions about safety guidelines or procedures? Contact us at more@ride-more.org*
+_Questions about safety guidelines or procedures? Contact us at more@ride-more.org_

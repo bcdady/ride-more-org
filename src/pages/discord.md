@@ -174,4 +174,4 @@ If you need help with Discord or have questions about our server, don't hesitate
 
 ---
 
-*Welcome to the MORE Missoula Discord community! We're excited to have you join our digital campfire.* 🏍️🔥
+_Welcome to the MORE Missoula Discord community! We're excited to have you join our digital campfire._ 🏍️🔥
