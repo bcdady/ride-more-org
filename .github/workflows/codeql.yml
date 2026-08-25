@@ -13,17 +13,18 @@ jobs:
     name: Check lockfile consistency
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
-      - uses: jdx/mise-action@v4
+      - uses: actions/checkout@v7
+      - uses: pnpm/action-setup@v4
+      - uses: jdx/mise-action@v4.2.3
 
-      - name: Check aube.lock consistency
-        run: aube install --frozen-lockfile
+      - name: Check pnpm consistency
+        run: pnpm install --frozen-lockfile
 
-      - name: Aube security audit
-        run: aube audit
+      - name: Security audit
+        run: pnpm audit
 
       - name: Type check
-        run: aube run typecheck
+        run: pnpm run typecheck
 
   analyze:
     name: Analyze Code
@@ -44,15 +45,15 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7
 
       - name: Initialize CodeQL
-        uses: github/codeql-action/init@v4
+        uses: github/codeql-action/init@v4.37.3
         with:
           languages: ${{ matrix.language }}
           queries: +security-and-quality
 
       - name: Perform CodeQL Analysis
-        uses: github/codeql-action/analyze@v4
+        uses: github/codeql-action/analyze@v4.37.3
         with:
           category: "/language:${{matrix.language}}"

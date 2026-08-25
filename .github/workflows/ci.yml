@@ -17,9 +17,9 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
       - uses: pnpm/action-setup@v4
-      - uses: jdx/mise-action@v4
+      - uses: jdx/mise-action@v4.2.3
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
@@ -38,9 +38,9 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
       - uses: pnpm/action-setup@v4
-      - uses: jdx/mise-action@v4
+      - uses: jdx/mise-action@v4.2.3
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
@@ -57,9 +57,9 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
       - uses: pnpm/action-setup@v4
-      - uses: jdx/mise-action@v4
+      - uses: jdx/mise-action@v4.2.3
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
