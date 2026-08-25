@@ -2,6 +2,7 @@
   "name": "ride-more-org",
   "version": "1.2.3",
   "private": true,
+  "packageManager": "pnpm@10.11.1",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
@@ -51,12 +52,19 @@
     "node": ">=22.0"
   },
   "pnpm": {
+    "onlyBuiltDependencies": [
+      "@swc/core",
+      "core-js"
+    ],
     "overrides": {
       "serialize-javascript": "^7.0.5",
       "uuid": "^11.1.1",
       "brace-expansion": "^5.0.9",
       "fast-uri": "^4.1.2",
-      "postcss": "^8.5.25"
+      "postcss": "^8.5.25",
+      "image-size": "^2.1.0",
+      "js-yaml": "^4.3.1",
+      "nanoid": "^3.3.18"
     }
   }
 }

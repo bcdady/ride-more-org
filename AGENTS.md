@@ -4,13 +4,13 @@ This file provides high-signal context for agents working on the `ride-more-org`
 
 ## Build and Development
 
-- **Package Manager**: [aube](https://aube.jdx.dev/). Use `aube` commands.
+- **Package Manager**: [pnpm](https://pnpm.io/). Use `pnpm` commands. `aube` is used for high-performance task execution and development via `aube run`.
 - **Tool Version Manager**: [mise](https://mise.jdx.dev/). Managed via `mise.toml`.
-- **Development Server**: `aube run start`
-- **Production Build**: `aube run build` (generates static files in `build/`)
-- **Type Checking**: `aube run typecheck` (runs `tsc`).
-- **Security Audit**: `aube audit`.
-- **Cloudflare Pages Build**: Cloudflare's build image does not support `aube` (only npm, pnpm, Yarn, and Bun are preinstalled). The Cloudflare Pages project is configured to use `pnpm install --frozen-lockfile` and `pnpm run build` instead, backed by a separately committed `pnpm-lock.yaml`. Regenerate it after any dependency change with `npm_config_package_manager_strict=false pnpm install --lockfile-only` and commit the result alongside `aube-lock.yaml`.
+- **Development Server**: `pnpm start` or `aube run start`
+- **Production Build**: `pnpm run build` or `aube run build` (generates static files in `build/`)
+- **Type Checking**: `pnpm run typecheck` or `aube run typecheck` (runs `tsc`).
+- **Security Audit**: `pnpm audit`.
+- **Cloudflare Pages Build**: Cloudflare's build image is configured to use `pnpm install --frozen-lockfile` and `pnpm run build`. GitHub Workflows also use `pnpm` to ensure consistency.
 
 ## Project Structure
 
@@ -34,7 +34,7 @@ This project shares patterns with `bryandady.com`:
 - **Broken Links**:
   - `onBrokenLinks` and `onBrokenMarkdownLinks` are both set to `'throw'` in `docusaurus.config.ts`. Every link must be valid for the build to pass.
 - **Docusaurus v4**: Both use `future: { v4: true }` in `docusaurus.config.ts` to prepare for the next major version.
-- **Modern Tooling**: Moving towards standardizing on `mise` for tool management and `aube` for package management.
+- **Modern Tooling**: Unified on `pnpm` for CI/CD (GitHub Workflows and Cloudflare Pages v3) and local development. `mise` is used for tool management, and `aube` remains available for high-performance task execution.
 -->
 <!-- AGENT_SYNC_END: shared-docusaurus-patterns -->
 
