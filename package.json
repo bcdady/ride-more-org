@@ -16,7 +16,10 @@
   },
   "dependencies": {
     "@docusaurus/core": "3.10.1",
+<<<<<<< HEAD
     "@docusaurus/faster": "3.10.1",
+=======
+>>>>>>> 1b3a9dd (chore: upgrade docusaurus to 3.10.1 and node to 22)
     "@docusaurus/preset-classic": "3.10.1",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
@@ -28,12 +31,16 @@
     "@docusaurus/module-type-aliases": "3.10.1",
     "@docusaurus/tsconfig": "3.10.1",
     "@docusaurus/types": "3.10.1",
+<<<<<<< HEAD
     "@eslint/js": "^10.0.1",
     "eslint": "^10.8.0",
     "eslint-plugin-react-hooks": "^7.1.1",
     "globals": "^17.8.0",
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.65.0"
+=======
+    "typescript": "~5.9.3"
+>>>>>>> 1b3a9dd (chore: upgrade docusaurus to 3.10.1 and node to 22)
   },
   "browserslist": {
     "production": [
